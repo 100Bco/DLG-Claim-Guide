@@ -52,7 +52,7 @@ export default function Home() {
         Browse by topic
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-        {TOPICS.map((topic) => {
+        {TOPICS.map((topic, i) => {
           const count = getArticlesByTopic(topic.id).length;
 
           return (
@@ -61,15 +61,21 @@ export default function Home() {
               to={`/topic/${topic.id}`}
               className="group block rounded-sm border border-border-subtle bg-surface-elevated p-7 md:p-8 hover:border-border-strong transition-colors"
             >
-              <div className="flex items-start justify-between gap-4">
-                <h3 className="font-display text-2xl font-normal text-text-primary leading-tight group-hover:text-text-secondary transition-colors">
-                  {topic.title}
-                </h3>
+              <div className="flex items-start justify-between gap-4 mb-4">
+                <span
+                  className="font-mono text-3xl md:text-4xl font-light leading-none tabular-nums text-border-strong group-hover:text-text-tertiary transition-colors"
+                  aria-hidden="true"
+                >
+                  {String(i + 1).padStart(2, "0")}
+                </span>
                 <ArrowRight
                   className="w-5 h-5 mt-1 shrink-0 text-text-tertiary group-hover:text-text-primary group-hover:translate-x-0.5 transition-all"
                   aria-hidden="true"
                 />
               </div>
+              <h3 className="font-display text-2xl font-normal text-text-primary leading-tight group-hover:text-text-secondary transition-colors">
+                {topic.title}
+              </h3>
               <p className="font-ui text-text-secondary leading-relaxed mt-3 mb-6 font-light">
                 {topic.description}
               </p>
