@@ -1,6 +1,6 @@
 import { Link, useNavigate } from "react-router-dom";
 import { TOPICS } from "../types";
-import { Search } from "lucide-react";
+import { Search, ArrowRight } from "lucide-react";
 import { useState } from "react";
 import { getArticlesByTopic } from "../lib/content";
 
@@ -17,12 +17,12 @@ export default function Home() {
 
   return (
     <div className="max-w-4xl mx-auto px-6 py-16 md:py-24">
-      <div className="max-w-2xl mb-20">
+      <div className="max-w-2xl mb-16">
         <h1 className="font-display text-4xl md:text-5xl lg:text-6xl tracking-tight leading-tight mb-6">
-          Answers to legal process questions.
+          How claims and courts actually work
         </h1>
         <p className="font-body text-xl md:text-2xl text-text-secondary leading-relaxed mb-10">
-          We explain how claims and courts actually work. No legal advice, no attorney advertising. Just neutral information about the systems you are navigating.
+          Plain answers on insurance claims, workers&rsquo; compensation, injury lawsuits, and small claims court &mdash; with cited sources.
         </p>
 
         <form onSubmit={handleSearch} role="search" className="relative max-w-lg">
@@ -48,55 +48,46 @@ export default function Home() {
         </form>
       </div>
 
-      <div className="space-y-16">
+      <h2 className="font-ui text-sm font-semibold tracking-widest text-text-tertiary uppercase mb-6">
+        Browse by topic
+      </h2>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         {TOPICS.map((topic) => {
-          const articles = getArticlesByTopic(topic.id);
-          const sampleArticles = articles.slice(0, 3);
-          
-          return (
-            <div key={topic.id} className="pt-4 border-b border-border-subtle pb-16">
-              <div className="mb-10">
-                <Link to={`/topic/${topic.id}`} className="group inline-block">
-                  <h2 className="font-display text-[2.5rem] font-normal mb-4 text-text-primary group-hover:text-text-secondary transition-colors leading-tight">
-                    {topic.title}
-                  </h2>
-                </Link>
-                <p className="font-ui text-text-secondary leading-relaxed text-lg mb-8 max-w-2xl font-light">
-                  {topic.description}
-                </p>
-                <div className="font-ui text-xs font-semibold tracking-widest text-text-secondary uppercase">
-                  {articles.length} {articles.length === 1 ? "QUESTION" : "QUESTIONS"}
-                </div>
-              </div>
+          const count = getArticlesByTopic(topic.id).length;
 
-              {sampleArticles.length > 0 && (
-                <ul className="space-y-6">
-                  {sampleArticles.map((article) => (
-                    <li key={article.data.slug}>
-                      <Link
-                        to={`/${article.data.slug}`}
-                        className="font-ui text-[1.125rem] text-[#2B5CA0] hover:text-[#1A3860] hover:underline underline-offset-[6px] decoration-[#2B5CA0]/40 transition-colors"
-                      >
-                        {article.data.title}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              )}
-              
-              {articles.length > 3 && (
-                <div className="mt-8">
-                  <Link 
-                    to={`/topic/${topic.id}`}
-                    className="font-ui text-sm font-medium text-text-secondary hover:text-text-primary transition-colors inline-flex items-center gap-1"
-                  >
-                    View all {articles.length} questions &rarr;
-                  </Link>
-                </div>
-              )}
-            </div>
+          return (
+            <Link
+              key={topic.id}
+              to={`/topic/${topic.id}`}
+              className="group block rounded-sm border border-border-subtle bg-surface-elevated p-7 md:p-8 hover:border-border-strong transition-colors"
+            >
+              <div className="flex items-start justify-between gap-4">
+                <h3 className="font-display text-2xl font-normal text-text-primary leading-tight group-hover:text-text-secondary transition-colors">
+                  {topic.title}
+                </h3>
+                <ArrowRight
+                  className="w-5 h-5 mt-1 shrink-0 text-text-tertiary group-hover:text-text-primary group-hover:translate-x-0.5 transition-all"
+                  aria-hidden="true"
+                />
+              </div>
+              <p className="font-ui text-text-secondary leading-relaxed mt-3 mb-6 font-light">
+                {topic.description}
+              </p>
+              <div className="font-mono text-xs font-medium tracking-widest text-text-tertiary uppercase">
+                {count} {count === 1 ? "question" : "questions"}
+              </div>
+            </Link>
           );
         })}
+      </div>
+
+      <div className="mt-10">
+        <Link
+          to="/questions"
+          className="font-ui text-sm font-medium text-text-secondary hover:text-text-primary transition-colors inline-flex items-center gap-1"
+        >
+          Browse all questions &rarr;
+        </Link>
       </div>
     </div>
   );

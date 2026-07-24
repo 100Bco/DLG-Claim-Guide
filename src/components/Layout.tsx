@@ -1,9 +1,13 @@
-import { Link, Outlet } from "react-router-dom";
+import { Link, Outlet, useLocation } from "react-router-dom";
 import { Search } from "lucide-react";
 import { TOPICS } from "../types";
 import RouteEffects from "./RouteEffects";
 
 export default function Layout() {
+  // The homepage has its own hero search, so the nav search link is hidden
+  // there to avoid two search entry points on the same screen.
+  const isHome = useLocation().pathname === "/";
+
   return (
     <div className="min-h-screen flex flex-col font-ui text-text-primary bg-surface-base selection:bg-text-primary selection:text-surface-base">
       <RouteEffects />
@@ -34,15 +38,19 @@ export default function Layout() {
                 {topic.title}
               </Link>
             ))}
-            <div className="w-px h-4 bg-border-strong hidden md:block" aria-hidden="true"></div>
-            <Link
-              to="/questions"
-              className="text-sm font-medium text-text-secondary hover:text-text-primary transition-colors flex items-center gap-2"
-              aria-label="Search questions"
-            >
-              <Search className="w-4 h-4" aria-hidden="true" />
-              <span className="hidden md:inline">Search</span>
-            </Link>
+            {!isHome && (
+              <>
+                <div className="w-px h-4 bg-border-strong hidden md:block" aria-hidden="true"></div>
+                <Link
+                  to="/questions"
+                  className="text-sm font-medium text-text-secondary hover:text-text-primary transition-colors flex items-center gap-2"
+                  aria-label="Search questions"
+                >
+                  <Search className="w-4 h-4" aria-hidden="true" />
+                  <span className="hidden md:inline">Search</span>
+                </Link>
+              </>
+            )}
           </nav>
         </div>
       </header>
