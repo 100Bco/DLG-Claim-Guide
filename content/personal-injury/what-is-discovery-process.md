@@ -26,9 +26,9 @@ updated: ""
 
 ## What discovery is and why it exists
 
-Discovery is the phase of a civil lawsuit in which the parties formally exchange information and evidence before trial. It follows the opening pleadings and typically occupies the longest stretch of a case. The core idea is that litigation should be decided on the facts, not on surprise, so each side is generally entitled to learn what the other knows.
+[Discovery](https://www.law.cornell.edu/wex/discovery) is the phase of a civil lawsuit in which the parties formally exchange information and evidence before trial. It follows the opening pleadings and typically occupies the longest stretch of a case. The core idea is that litigation should be decided on the facts, not on surprise, so each side is generally entitled to learn what the other knows.
 
-Under rules patterned on Federal Rule of Civil Procedure 26, and comparable state rules, parties may generally obtain any information that is not privileged and is relevant to a claim or defense. Relevance is read broadly at this stage, and information can be discoverable even if it would not itself be admissible at trial, so long as it is reasonably calculated to lead to admissible evidence.
+Under rules patterned on [Federal Rule of Civil Procedure 26](https://www.law.cornell.edu/rules/frcp/rule_26), and comparable state rules, parties may generally obtain any information that is not privileged and is relevant to a claim or defense. Relevance is read broadly at this stage, and information can be discoverable even if it would not itself be admissible at trial, so long as it is reasonably calculated to lead to admissible evidence.
 
 Discovery is largely conducted by the parties themselves, with the court stepping in mainly to resolve disputes. Judges may become involved when one side resists a request or when a party seeks to limit what must be disclosed.
 

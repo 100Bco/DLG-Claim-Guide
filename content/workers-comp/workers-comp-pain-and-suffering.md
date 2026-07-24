@@ -26,9 +26,9 @@ updated: ""
 
 ## What workers' compensation generally pays
 
-Workers' compensation is designed to provide defined, predictable benefits for job-related injuries. In most states, those benefits fall into a limited set of categories: medical treatment for the injury, partial replacement of lost wages, benefits for permanent impairment, and, in fatal cases, death benefits for dependents. These are largely economic in nature — tied to medical costs, lost earnings, and measured impairment.
+[Workers' compensation](https://www.law.cornell.edu/wex/workers_compensation) is designed to provide defined, predictable benefits for job-related injuries. In most states, those benefits fall into a limited set of categories: medical treatment for the injury, partial replacement of lost wages, benefits for permanent impairment, and, in fatal cases, death benefits for dependents. These are largely economic in nature — tied to medical costs, lost earnings, and measured impairment.
 
-Notably absent from this list, in most states, is compensation for pain and suffering. Pain and suffering is a form of non-economic damages — compensation for intangible harm such as physical pain, emotional distress, and loss of enjoyment of life. Workers' compensation systems generally do not include a benefit for these losses.
+Notably absent from this list, in most states, is compensation for pain and suffering. Pain and suffering is a form of [non-economic damages](https://www.law.cornell.edu/wex/damages) — compensation for intangible harm such as physical pain, emotional distress, and loss of enjoyment of life. Workers' compensation systems generally do not include a benefit for these losses.
 
 Because the categories of workers' compensation benefits are set by each state's statute, what is and is not covered can differ in detail by jurisdiction, but the general exclusion of pain and suffering is widely shared.
 

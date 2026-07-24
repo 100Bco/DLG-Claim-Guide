@@ -54,7 +54,7 @@ Administration usually runs through a designated state agency, such as a workers
 
 ## The exclusive remedy trade-off
 
-A central principle of workers' compensation is often called the exclusive remedy rule. In exchange for receiving no-fault benefits, an employee generally gives up the right to sue the employer in civil court for the workplace injury. Workers' compensation becomes, in most cases, the sole avenue for recovery against the employer.
+A central principle of workers' compensation is often called the [exclusive remedy rule](https://www.law.cornell.edu/wex/workers_compensation). In exchange for receiving no-fault benefits, an employee generally gives up the right to sue the employer in civil court for the workplace injury. Workers' compensation becomes, in most cases, the sole avenue for recovery against the employer.
 
 There are recognized exceptions in some states, such as injuries caused by an employer's intentional conduct, or claims against parties other than the employer. These exceptions are narrow and defined by each state's law, so whether one applies depends on the jurisdiction and the facts.
 
@@ -62,7 +62,7 @@ There are recognized exceptions in some states, such as injuries caused by an em
 
 Workers' compensation is one of the most state-specific areas of law, and almost every element can differ by jurisdiction. States vary in which employers are required to carry coverage, which workers are counted as employees, how benefit amounts and waiting periods are calculated, how long benefits last, and how disputes are resolved. Some categories of workers, such as certain independent contractors, agricultural workers, or domestic workers, may be treated differently or excluded in some states.
 
-Federal programs add another layer but do not govern state systems. Separate federal laws cover specific groups — such as federal employees, longshore and harbor workers, and certain energy and mining workers — through the U.S. Department of Labor. These federal programs have their own rules and should not be confused with the state systems that cover most private-sector workers. Because of this variation, the general description here outlines the common structure rather than the rules of any particular state.
+Federal programs add another layer but do not govern state systems. Separate federal laws cover specific groups — such as federal employees, longshore and harbor workers, and certain energy and mining workers — through the [U.S. Department of Labor](https://www.dol.gov/general/topic/workcomp). These federal programs have their own rules and should not be confused with the state systems that cover most private-sector workers. Because of this variation, the general description here outlines the common structure rather than the rules of any particular state.
 
 ## What typically happens after a workplace injury
 

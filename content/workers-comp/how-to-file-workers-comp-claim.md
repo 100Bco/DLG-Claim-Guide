@@ -54,7 +54,7 @@ Once a claim is filed, the insurer generally has a defined period to investigate
 
 Filing procedures are highly state-specific. States differ in the deadline to report an injury to the employer, the separate deadline to file a formal claim with the agency, the forms required, the rules for choosing a treating doctor, and the time an insurer has to respond. Some states also have a distinct statute of limitations for filing a claim that is separate from the initial reporting deadline.
 
-For example, California's Labor Code generally sets a one-year period for filing a workers' compensation claim, subject to exceptions — a figure specific to California, not a national rule. Other states set different periods, and federal programs administered by the U.S. Department of Labor follow their own procedures that do not govern state claims. Because of this variation, the correct forms and deadlines depend on the state where the worker is employed.
+For example, [California's Labor Code](https://www.dir.ca.gov/dwc/) generally sets a one-year period for filing a workers' compensation claim, subject to exceptions — a figure specific to California, not a national rule. Other states set different periods, and federal programs administered by the [U.S. Department of Labor](https://www.dol.gov/general/topic/workcomp) follow their own procedures that do not govern state claims. Because of this variation, the correct forms and deadlines depend on the state where the worker is employed.
 
 ## The employer's and insurer's role after a report
 

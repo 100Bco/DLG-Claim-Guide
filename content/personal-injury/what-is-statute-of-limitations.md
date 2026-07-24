@@ -26,7 +26,7 @@ updated: ""
 
 ## What a statute of limitations does
 
-A statute of limitations is a law that fixes a deadline for starting a lawsuit. Once the applicable period runs out, the party with the claim generally loses the right to sue, and a court will typically dismiss a late-filed case as time-barred. The rule applies across many kinds of legal disputes, including personal injury, contract, and property claims, though the time allowed differs by category.
+A [statute of limitations](https://www.law.cornell.edu/wex/statute_of_limitations) is a law that fixes a deadline for starting a lawsuit. Once the applicable period runs out, the party with the claim generally loses the right to sue, and a court will typically dismiss a late-filed case as time-barred. The rule applies across many kinds of legal disputes, including personal injury, contract, and property claims, though the time allowed differs by category.
 
 These deadlines exist for several practical reasons. Evidence tends to deteriorate over time as memories fade and documents are lost, so limitations periods encourage claims to be brought while proof is still reliable. They also give potential defendants a point after which they no longer face the prospect of litigation over old events. Courts and commentators often describe this as promoting fairness and finality.
 
@@ -43,7 +43,7 @@ Whether and how the discovery rule applies depends on the jurisdiction and the t
 
 ## How deadlines differ by state and claim type
 
-The length of a limitations period varies widely. Personal injury claims in many states fall in a range of roughly two to several years, but the precise figure is set by each state's statutes. For example, California's Code of Civil Procedure section 335.1 sets a two-year period for most personal injury actions. That two-year figure is California's rule; other states set different periods, and no single number applies nationwide.
+The length of a limitations period varies widely. Personal injury claims in many states fall in a range of roughly two to several years, but the precise figure is set by each state's statutes. For example, [California's Code of Civil Procedure section 335.1](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=335.1) sets a two-year period for most personal injury actions. That two-year figure is California's rule; other states set different periods, and no single number applies nationwide.
 
 Different claim types carry different deadlines within the same state as well. Contract claims, property damage claims, medical malpractice claims, and claims against government entities frequently have their own periods, some shorter and some longer. Readers comparing systems may look at [how this filing deadline works under Texas law](https://danglawgroup.com/statute-of-limitations-for-personal-injury-in-texas/) as one state-specific example.
 

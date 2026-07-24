@@ -26,7 +26,7 @@ updated: ""
 
 ## The core test: arising out of and in the course of employment
 
-Workers' compensation generally covers injuries and illnesses that are connected to a person's job. Most state systems express this through a two-part idea: the injury must "arise out of" the employment (there is a causal connection to the work) and occur "in the course of" the employment (it happens within the time, place, and activities of the job). Both parts generally need to be satisfied.
+[Workers' compensation](https://www.law.cornell.edu/wex/workers_compensation) generally covers injuries and illnesses that are connected to a person's job. Most state systems express this through a two-part idea: the injury must "arise out of" the employment (there is a causal connection to the work) and occur "in the course of" the employment (it happens within the time, place, and activities of the job). Both parts generally need to be satisfied.
 
 Because the system is no-fault, coverage usually does not turn on who caused the injury. A worker hurt by their own ordinary carelessness may still be covered, and so may a worker hurt by a co-worker or by conditions on the job. The focus is on the connection to work, not on blame. This is one of the main differences between workers' compensation and a fault-based personal injury claim.
 
@@ -59,7 +59,7 @@ These exclusions are defined by state law and are often fact-specific, so the sa
 
 The scope of covered injuries is one of the most variable features of workers' compensation. States differ in how readily they recognize repetitive-stress and occupational-disease claims, whether and how they cover psychological injuries, how the "going and coming" rule and its exceptions apply, and what evidence is needed to link a condition to work. Some states also apply special rules or presumptions for certain occupations, such as firefighters or first responders, for particular illnesses.
 
-Federal workers' compensation programs, administered by the U.S. Department of Labor, cover their own defined groups and conditions and do not control what state systems cover. Because coverage questions turn on the governing state's statute and case law, general descriptions of what is "covered" should be confirmed against the applicable jurisdiction.
+Federal workers' compensation programs, administered by the [U.S. Department of Labor](https://www.dol.gov/general/topic/workcomp), cover their own defined groups and conditions and do not control what state systems cover. Because coverage questions turn on the governing state's statute and case law, general descriptions of what is "covered" should be confirmed against the applicable jurisdiction.
 
 ## Special categories and presumptions
 

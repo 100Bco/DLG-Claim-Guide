@@ -45,7 +45,7 @@ Which of these applies, and how a worker accesses them, is defined by state law 
 
 ## When coverage is not required at all
 
-A separate situation arises in the few places where workers' compensation coverage is not mandatory. Texas is the most prominent example: it generally allows private employers to opt out of the workers' compensation system, and employers that do so are known as "nonsubscribers." In that setting, the absence of workers' compensation is lawful rather than a violation.
+A separate situation arises in the few places where workers' compensation coverage is not mandatory. Texas is the most prominent example: it generally allows private employers to opt out of the workers' compensation system, and employers that do so are known as "[nonsubscribers](https://www.tdi.texas.gov/wc/)." In that setting, the absence of workers' compensation is lawful rather than a violation.
 
 Where an employer lawfully has no workers' compensation, the trade-off shifts. An injured worker may not have access to no-fault benefits, but a nonsubscribing employer may also lose certain legal protections, so the worker may be able to bring a personal injury claim against the employer and, in some cases, benefit from rules that limit the employer's defenses. Because these arrangements are governed by that state's specific statutes, the analysis differs from states where coverage is mandatory.
 
@@ -53,7 +53,7 @@ Where an employer lawfully has no workers' compensation, the trade-off shifts. A
 
 This is an area of significant state variation. States differ in which employers are required to carry coverage, whether an uninsured employer fund exists and how it operates, what penalties apply to noncompliant employers, whether and how an injured worker can sue an uninsured employer, and what defenses such an employer loses. A handful of states, and certain categories of employment, fall outside mandatory coverage entirely.
 
-Federal workers' compensation programs administered by the U.S. Department of Labor cover their own defined groups and do not fill gaps in state coverage. Because the consequences of an employer's lack of coverage are jurisdiction-specific, the options available to an injured worker depend on the governing state law.
+Federal workers' compensation programs administered by the [U.S. Department of Labor](https://www.dol.gov/general/topic/workcomp) cover their own defined groups and do not fill gaps in state coverage. Because the consequences of an employer's lack of coverage are jurisdiction-specific, the options available to an injured worker depend on the governing state law.
 
 ## The employer's exposure and penalties
 

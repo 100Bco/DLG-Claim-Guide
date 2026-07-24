@@ -30,7 +30,7 @@ A contingency fee is a payment arrangement in which an attorney is paid only if 
 
 This model is common in personal injury and certain other civil claims. It allows a person to pursue a claim without paying legal fees up front, shifting much of the financial risk of an unsuccessful case to the attorney. Because the attorney's payment is tied to the result, the arrangement is often described as aligning the attorney's interest with the client's in obtaining a recovery.
 
-The percentage and terms are set by a written agreement. Professional conduct rules, such as those modeled on the American Bar Association's Rule 1.5, generally require that a contingency fee be reasonable and that the arrangement be put in writing, signed by the client, and explain how the fee is calculated.
+The percentage and terms are set by a written agreement. Professional conduct rules, such as those modeled on the [American Bar Association's Rule 1.5](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_5_fees/), generally require that a contingency fee be reasonable and that the arrangement be put in writing, signed by the client, and explain how the fee is calculated.
 
 ## Fees versus costs
 
@@ -53,7 +53,7 @@ Contingency fees are regulated, and the rules vary by jurisdiction. Every state 
 - **Percentage limits** — some states or specific claim types impose caps or sliding scales on contingency percentages, while others rely on the general reasonableness standard.
 - **Disclosure requirements** — the specific written disclosures a client must receive can differ by state.
 
-Because these requirements are set by each state's rules of professional conduct and, in some cases, by statute, the details of what is permitted and required depend on the jurisdiction.
+Because these requirements are set by each state's [rules of professional conduct](https://www.calbar.ca.gov/) and, in some cases, by statute, the details of what is permitted and required depend on the jurisdiction.
 
 ## How the recovery is distributed at the end
 

@@ -26,7 +26,7 @@ updated: ""
 
 ## What settlement means
 
-A settlement is a voluntary agreement that ends a dispute without a court deciding the outcome. In a personal injury context, it typically involves the defendant or an insurance company paying an agreed sum, and the plaintiff signing a release — a document giving up the right to sue further over the same incident.
+A [settlement](https://www.law.cornell.edu/wex/settlement) is a voluntary agreement that ends a dispute without a court deciding the outcome. In a personal injury context, it typically involves the defendant or an insurance company paying an agreed sum, and the plaintiff signing a release — a document giving up the right to sue further over the same incident.
 
 Settlement can occur at almost any stage. Some claims resolve before a lawsuit is filed, through direct negotiation with an insurer. Others settle after discovery, once both sides have seen the evidence, and some settle on the courthouse steps or even during trial. Court systems generally treat settlement as the expected outcome for civil disputes, and many actively encourage it.
 
@@ -46,7 +46,7 @@ For insurers and defendants, a negotiated payment may be preferable to the risk 
 
 Settlements usually emerge from negotiation, which often begins with a demand letter setting out the plaintiff's account of the injury and the compensation sought. The other side may respond with a counteroffer, and the figures move through further exchanges.
 
-When direct talks stall, many courts turn to mediation, a process in which a neutral third party helps the sides look for common ground. The mediator does not decide the case; the parties keep the power to accept or reject any proposal. Some jurisdictions require mediation or another form of alternative dispute resolution before a civil case can be set for trial.
+When direct talks stall, many courts turn to [mediation](https://selfhelp.courts.ca.gov/), a process in which a neutral third party helps the sides look for common ground. The mediator does not decide the case; the parties keep the power to accept or reject any proposal. Some jurisdictions require mediation or another form of alternative dispute resolution before a civil case can be set for trial.
 
 ## Limits, exceptions, and variation by state
 

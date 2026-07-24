@@ -26,7 +26,7 @@ updated: ""
 
 ## What a denial means
 
-A workers' compensation denial is a decision by the employer's insurer not to accept a claim, or to refuse a particular benefit. A denial does not necessarily end the matter; in most states it opens a dispute that the worker can pursue through the state's workers' compensation agency. In general, the insurer is expected to provide a written explanation identifying the reason for the denial.
+A [workers' compensation](https://www.law.cornell.edu/wex/workers_compensation) denial is a decision by the employer's insurer not to accept a claim, or to refuse a particular benefit. A denial does not necessarily end the matter; in most states it opens a dispute that the worker can pursue through the state's workers' compensation agency. In general, the insurer is expected to provide a written explanation identifying the reason for the denial.
 
 Understanding the stated reason matters because it shapes what happens next. A claim denied for a procedural issue, such as a missed deadline, raises different questions than one denied because the insurer disputes that the injury is work-related. The denial notice typically also explains the deadline and method for challenging the decision, which are set by state law.
 
@@ -60,7 +60,7 @@ Many states also encourage or provide informal resolution, such as mediation or 
 
 The rules governing denials differ substantially by jurisdiction. States set their own deadlines for challenging a denial, their own dispute-resolution procedures, their own standards for the evidence required, and their own layers of administrative review. A deadline to contest a denial in one state may be much shorter or longer than in another, and missing it can forfeit the right to review.
 
-Federal workers' compensation programs, administered by the U.S. Department of Labor, have their own separate denial and appeal procedures that do not apply to state claims. Because these processes are state-specific, the correct steps and time limits after a denial depend entirely on the governing jurisdiction.
+Federal workers' compensation programs, administered by the [U.S. Department of Labor](https://www.dol.gov/general/topic/workcomp), have their own separate denial and appeal procedures that do not apply to state claims. Because these processes are state-specific, the correct steps and time limits after a denial depend entirely on the governing jurisdiction.
 
 ## Addressing the specific reason for denial
 

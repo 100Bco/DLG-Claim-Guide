@@ -26,9 +26,9 @@ updated: ""
 
 ## What a deposition is
 
-A deposition is a pretrial procedure in which a person gives sworn testimony in response to an attorney's questions, outside of a courtroom but under the same obligation to tell the truth. The session is typically held in a law office or by video conference, and a court reporter creates a written transcript. It is one of the primary tools of discovery, the phase of a civil case in which the parties exchange information.
+A [deposition](https://www.law.cornell.edu/wex/deposition) is a pretrial procedure in which a person gives sworn testimony in response to an attorney's questions, outside of a courtroom but under the same obligation to tell the truth. The session is typically held in a law office or by video conference, and a court reporter creates a written transcript. It is one of the primary tools of discovery, the phase of a civil case in which the parties exchange information.
 
-The person being questioned is called the deponent. A deponent may be a party to the lawsuit, such as the plaintiff or defendant, or a non-party witness whose knowledge is relevant. In many jurisdictions, procedures modeled on Federal Rule of Civil Procedure 30 govern how depositions are noticed and conducted, and comparable rules apply in state courts.
+The person being questioned is called the deponent. A deponent may be a party to the lawsuit, such as the plaintiff or defendant, or a non-party witness whose knowledge is relevant. In many jurisdictions, procedures modeled on [Federal Rule of Civil Procedure 30](https://www.law.cornell.edu/rules/frcp/rule_30) govern how depositions are noticed and conducted, and comparable rules apply in state courts.
 
 Because the testimony is given under oath, statements made in a deposition carry legal weight. They can be used later to challenge a witness whose trial testimony differs, and in some circumstances a deposition transcript may be read or played at trial.
 

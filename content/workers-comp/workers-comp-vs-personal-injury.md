@@ -17,7 +17,7 @@ sources:
   - name: "U.S. Department of Labor — Workers' Compensation"
     url: "https://www.dol.gov/general/topic/workcomp"
 outbound_link:
-  url: "https://danglawgroup.com/what-happens-if-you-cannot-return-to-work-after-an-injury-in-texas/"
+  url: "https://danglawgroup.com/what-happens-if-you-cant-return-to-work-after-injury-texas/"
   anchor: "how one state addresses injuries that prevent a return to work"
 author: "Editorial Team — The Claims Guide"
 published: true
@@ -27,9 +27,9 @@ updated: ""
 
 ## Two different systems for injury compensation
 
-Workers' compensation and personal injury claims are two distinct legal paths for addressing an injury, and they operate on different principles. Workers' compensation is a state-administered insurance system that provides defined benefits to employees hurt on the job. A personal injury claim is a civil action seeking compensation from a person or entity whose wrongful conduct caused harm. Although both address injuries, they differ in what a claimant must prove, what can be recovered, and against whom.
+[Workers' compensation](https://www.law.cornell.edu/wex/workers_compensation) and personal injury claims are two distinct legal paths for addressing an injury, and they operate on different principles. Workers' compensation is a state-administered insurance system that provides defined benefits to employees hurt on the job. A personal injury claim is a civil action seeking compensation from a person or entity whose wrongful conduct caused harm. Although both address injuries, they differ in what a claimant must prove, what can be recovered, and against whom.
 
-The systems also arose for different reasons. Workers' compensation was created to give injured workers a faster, more certain source of benefits without the burden of a lawsuit, in exchange for limits on what they can recover. Personal injury law, rooted in the broader law of torts (civil wrongs), aims to make an injured person whole for losses caused by another's fault.
+The systems also arose for different reasons. Workers' compensation was created to give injured workers a faster, more certain source of benefits without the burden of a lawsuit, in exchange for limits on what they can recover. Personal injury law, rooted in the broader [law of torts](https://www.law.cornell.edu/wex/tort) (civil wrongs), aims to make an injured person whole for losses caused by another's fault.
 
 Because workers' compensation is governed by each state's statute and personal injury law by each state's tort rules, the precise differences and their exceptions vary by jurisdiction.
 
@@ -52,7 +52,7 @@ This difference reflects the trade-off: workers' compensation offers more certai
 
 A defining limit of workers' compensation is the exclusive remedy rule. In most states, when workers' compensation applies, it is generally the sole avenue for recovery against the employer for a workplace injury, meaning the employee usually cannot also sue the employer in tort. This is the counterpart to receiving no-fault benefits.
 
-However, the rule does not necessarily bar every claim. In many states, an injured worker may still pursue a personal injury claim against a party other than the employer — such as a negligent third party — even while receiving workers' compensation. Some states also recognize narrow exceptions allowing suit against an employer, for example in cases of intentional harm. Because these exceptions are defined by each state and are often narrow, whether one applies depends on the jurisdiction and the facts. State approaches differ, and one illustration is [how one state addresses injuries that prevent a return to work](https://danglawgroup.com/what-happens-if-you-cannot-return-to-work-after-an-injury-in-texas/).
+However, the rule does not necessarily bar every claim. In many states, an injured worker may still pursue a personal injury claim against a party other than the employer — such as a negligent third party — even while receiving workers' compensation. Some states also recognize narrow exceptions allowing suit against an employer, for example in cases of intentional harm. Because these exceptions are defined by each state and are often narrow, whether one applies depends on the jurisdiction and the facts. State approaches differ, and one illustration is [how one state addresses injuries that prevent a return to work](https://danglawgroup.com/what-happens-if-you-cant-return-to-work-after-injury-texas/).
 
 ## Proof, timelines, and risk compared
 

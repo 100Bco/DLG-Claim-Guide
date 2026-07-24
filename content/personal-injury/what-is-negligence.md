@@ -28,7 +28,7 @@ updated: ""
 
 ## The core concept
 
-Negligence is a legal theory that holds a person or entity responsible for harm caused by a failure to exercise reasonable care. It does not require an intention to cause harm; it centers on conduct that falls short of what a reasonably careful person would do under similar circumstances. Negligence is the foundation of most personal injury claims, from ordinary accidents to many professional and premises disputes.
+[Negligence](https://www.law.cornell.edu/wex/negligence) is a legal theory that holds a person or entity responsible for harm caused by a failure to exercise reasonable care. It does not require an intention to cause harm; it centers on conduct that falls short of what a reasonably careful person would do under similar circumstances. Negligence is the foundation of most personal injury claims, from ordinary accidents to many professional and premises disputes.
 
 The reasonable-person standard is central to the idea. Rather than asking what a particular individual believed was acceptable, the law generally asks what a hypothetical, reasonably prudent person would have done in the same situation. This objective measure allows conduct to be judged against a shared benchmark rather than personal opinion.
 
@@ -47,7 +47,7 @@ Each element carries its own analysis, and disputes often focus on just one or t
 
 ## Duty and breach in more detail
 
-The first question is whether the defendant owed the plaintiff a duty of care. Duties can arise from general obligations — such as the duty of a driver to operate a vehicle carefully — or from specific relationships and circumstances recognized by law. Whether a duty exists is often treated as a question for the court.
+The first question is whether the defendant owed the plaintiff a [duty of care](https://www.law.cornell.edu/wex/duty_of_care). Duties can arise from general obligations — such as the duty of a driver to operate a vehicle carefully — or from specific relationships and circumstances recognized by law. Whether a duty exists is often treated as a question for the court.
 
 Breach asks whether the defendant's conduct fell below the required standard. This frequently turns on the facts: what the defendant did, what a reasonable person would have done, and what risks were foreseeable. In some situations, a violation of a safety statute can serve as evidence of breach, a concept sometimes called negligence per se, though its application varies by jurisdiction.
 

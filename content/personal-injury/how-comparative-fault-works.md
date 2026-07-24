@@ -28,7 +28,7 @@ updated: ""
 
 ## The basic idea of comparative fault
 
-Comparative fault, also called comparative negligence, is a legal rule for situations where more than one person contributed to an injury. Rather than treating fault as all-or-nothing, it assigns each party a percentage of responsibility and adjusts the plaintiff's compensation accordingly. If a plaintiff is found partly at fault, the award is generally reduced by that percentage.
+Comparative fault, also called [comparative negligence](https://www.law.cornell.edu/wex/comparative_negligence), is a legal rule for situations where more than one person contributed to an injury. Rather than treating fault as all-or-nothing, it assigns each party a percentage of responsibility and adjusts the plaintiff's compensation accordingly. If a plaintiff is found partly at fault, the award is generally reduced by that percentage.
 
 The concept responds to a common reality: accidents often result from a combination of conduct. A finder of fact — the jury, or the judge in a bench trial — may conclude that a defendant was mostly responsible while the plaintiff bears some smaller share. Comparative fault provides a framework for translating those percentages into a dollar result.
 
@@ -52,7 +52,7 @@ Texas, for example, uses a modified system in which a claimant may not recover i
 
 ## Contributory negligence: the strict minority rule
 
-A small number of states follow the older doctrine of contributory negligence, under which a plaintiff who bears any share of fault — even a very small one — may be barred from recovering at all. According to the Cornell Legal Information Institute, only a few jurisdictions still apply this rule, which is considerably harsher on plaintiffs than comparative systems.
+A small number of states follow the older doctrine of [contributory negligence](https://www.law.cornell.edu/wex/contributory_negligence), under which a plaintiff who bears any share of fault — even a very small one — may be barred from recovering at all. According to the Cornell Legal Information Institute, only a few jurisdictions still apply this rule, which is considerably harsher on plaintiffs than comparative systems.
 
 Because contributory negligence can eliminate recovery entirely, courts in those jurisdictions have sometimes developed exceptions, such as the "last clear chance" doctrine, which may allow recovery when the defendant had the final opportunity to avoid the harm. Whether such exceptions apply depends on the specific state's law.
 

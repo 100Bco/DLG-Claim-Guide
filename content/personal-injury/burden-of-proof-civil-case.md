@@ -26,7 +26,7 @@ updated: ""
 
 ## What "burden of proof" means
 
-The burden of proof is the responsibility a party carries to prove a disputed fact or claim to the required degree. It answers two related questions: who must prove something, and how convincingly. In a civil lawsuit, the party bringing the claim — the plaintiff — generally bears the initial burden of establishing the elements of the claim.
+The [burden of proof](https://www.law.cornell.edu/wex/burden_of_proof) is the responsibility a party carries to prove a disputed fact or claim to the required degree. It answers two related questions: who must prove something, and how convincingly. In a civil lawsuit, the party bringing the claim — the plaintiff — generally bears the initial burden of establishing the elements of the claim.
 
 The concept has two components. The burden of production is the obligation to come forward with enough evidence for an issue to be considered at all. The burden of persuasion is the obligation to actually convince the finder of fact — the jury, or the judge in a bench trial — that the claim is established to the applicable standard. If a party who carries the burden fails to meet it, the claim on that issue generally fails.
 
@@ -34,7 +34,7 @@ Placing the burden on the plaintiff reflects a basic principle: the party assert
 
 ## The civil standard: preponderance of the evidence
 
-Most civil claims are decided under the preponderance of the evidence standard. This means the party with the burden must show that the disputed fact is more likely true than not — often described as tipping the scale just past the halfway point, or greater than a 50 percent likelihood. If the evidence is evenly balanced, the party carrying the burden has not met it.
+Most civil claims are decided under the [preponderance of the evidence](https://www.law.cornell.edu/wex/preponderance_of_the_evidence) standard. This means the party with the burden must show that the disputed fact is more likely true than not — often described as tipping the scale just past the halfway point, or greater than a 50 percent likelihood. If the evidence is evenly balanced, the party carrying the burden has not met it.
 
 This is a meaningfully lower threshold than the criminal standard. In a criminal prosecution, the government must prove guilt beyond a reasonable doubt, a much higher level of certainty. The difference reflects what is at stake: criminal cases can result in loss of liberty, while civil cases generally involve money or other non-criminal remedies.
 

@@ -41,7 +41,7 @@ Wage-replacement benefits partially make up for income lost because of a work in
 - **Permanent partial disability** — paid when an injury leaves lasting but partial impairment, frequently tied to an impairment rating and a benefit schedule.
 - **Permanent total disability** — paid when an injury permanently prevents a return to gainful work; may last longer, sometimes for life in some states.
 
-For example, California's Labor Code generally limits most temporary disability payments to 104 weeks within a defined period — a figure specific to California, not a nationwide standard. Other states set different caps, and some measure duration differently.
+For example, [California's Labor Code](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=4656) generally limits most temporary disability payments to 104 weeks within a defined period — a figure specific to California, not a nationwide standard. Other states set different caps, and some measure duration differently.
 
 ## What can end or extend benefits
 
@@ -53,7 +53,7 @@ Benefits can also end if the worker misses required medical evaluations or fails
 
 Benefit duration is among the most variable features of workers' compensation. States differ in the caps they place on temporary disability weeks, how permanent disability is measured and paid, whether permanent total disability can continue for life, how medical benefits are limited, and whether and how claims can be reopened. Two workers with similar injuries can receive benefits for very different lengths of time depending on where they are employed.
 
-Federal workers' compensation programs administered by the U.S. Department of Labor follow their own separate duration rules that do not govern state systems. Because these timelines are jurisdiction-specific, how long benefits last in any particular claim depends on the governing state law.
+Federal workers' compensation programs administered by the [U.S. Department of Labor](https://www.dol.gov/general/topic/workcomp) follow their own separate duration rules that do not govern state systems. Because these timelines are jurisdiction-specific, how long benefits last in any particular claim depends on the governing state law.
 
 ## Settlements and how they affect duration
 

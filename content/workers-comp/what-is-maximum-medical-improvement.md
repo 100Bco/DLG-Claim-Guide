@@ -26,7 +26,7 @@ updated: ""
 
 ## Defining maximum medical improvement
 
-Maximum medical improvement, commonly abbreviated MMI, is a medical and legal milestone in a workers' compensation claim. It refers to the point at which a treating physician determines that an injured worker's condition has stabilized and is not likely to improve substantially with further medical treatment. In other words, the recovery has reached a plateau.
+Maximum medical improvement, commonly abbreviated MMI, is a medical and legal milestone in a [workers' compensation](https://www.law.cornell.edu/wex/workers_compensation) claim. It refers to the point at which a treating physician determines that an injured worker's condition has stabilized and is not likely to improve substantially with further medical treatment. In other words, the recovery has reached a plateau.
 
 An important point is that MMI is not the same as a full recovery. A worker can reach MMI while still having lasting symptoms or limitations; the term simply means that additional treatment is not expected to produce significant further improvement. Some workers reach MMI fully healed, while others reach it with permanent effects that then need to be evaluated.
 
@@ -54,7 +54,7 @@ The evaluation typically considers whether the condition has stabilized, whether
 
 MMI is used across state workers' compensation systems, but the specifics vary considerably. States differ in who may declare MMI, how disputes over MMI are resolved, whether there are timelines or presumptions about when MMI should occur, and exactly how reaching MMI affects the type and duration of benefits. Some states tie statutory deadlines or caps on temporary benefits to the MMI determination.
 
-Federal workers' compensation programs administered by the U.S. Department of Labor use similar concepts but operate under their own separate rules that do not govern state claims. Because the legal effect of MMI depends on the governing statute, the general description here should be confirmed against the rules of the applicable jurisdiction.
+Federal workers' compensation programs administered by the [U.S. Department of Labor](https://www.dol.gov/agencies/owcp) use similar concepts but operate under their own separate rules that do not govern state claims. Because the legal effect of MMI depends on the governing statute, the general description here should be confirmed against the rules of the applicable jurisdiction.
 
 ## Disputes over reaching MMI
 

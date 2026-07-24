@@ -36,7 +36,7 @@ Because the appeal structure is defined by state statute and agency rules, the n
 
 While the specifics vary, many state systems follow a broadly similar sequence:
 
-- **Initial hearing** — a proceeding before an administrative law judge or hearing officer, who receives evidence and issues a decision.
+- **Initial hearing** — a proceeding before an [administrative law judge](https://www.law.cornell.edu/wex/administrative_law) or hearing officer, who receives evidence and issues a decision.
 - **Board or commission review** — a request to have that decision reviewed by an appeals board or the state workers' compensation commission.
 - **State court review** — in many states, a further appeal to a state appellate court, generally limited to legal errors rather than a fresh look at the facts.
 
@@ -56,7 +56,7 @@ How competing medical opinions are weighed, and what procedures govern examinati
 
 The appeals process is highly state-specific. States differ in the number of administrative levels, the names and roles of the deciding bodies, the deadlines at each stage, the availability of mediation, and the point at which a dispute may enter the court system. Some states resolve most disputes entirely within the agency, while others provide earlier access to court review.
 
-Federal workers' compensation programs administered by the U.S. Department of Labor have their own separate appeal structures that do not apply to state claims. Because deadlines in these processes can be short and unforgiving, and because they differ by jurisdiction, the correct steps depend on the state system handling the claim.
+Federal workers' compensation programs administered by the [U.S. Department of Labor](https://www.dol.gov/general/topic/workcomp) have their own separate appeal structures that do not apply to state claims. Because deadlines in these processes can be short and unforgiving, and because they differ by jurisdiction, the correct steps depend on the state system handling the claim.
 
 ## Assistance and resolution during an appeal
 

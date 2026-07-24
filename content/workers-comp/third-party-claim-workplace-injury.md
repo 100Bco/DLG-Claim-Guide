@@ -27,7 +27,7 @@ updated: ""
 
 ## What a third-party claim is
 
-A third-party claim in the context of a workplace injury is a personal injury claim brought against someone other than the injured worker's employer. While workers' compensation generally handles the relationship between an injured employee and the employer, it does not necessarily shield outside parties whose negligence contributed to the injury. When such a party exists, the worker may be able to pursue a separate claim against them.
+A third-party claim in the context of a workplace injury is a personal injury claim brought against someone other than the injured worker's employer. While [workers' compensation](https://www.law.cornell.edu/wex/workers_compensation) generally handles the relationship between an injured employee and the employer, it does not necessarily shield outside parties whose negligence contributed to the injury. When such a party exists, the worker may be able to pursue a separate claim against them.
 
 The term "third party" reflects the structure: the first two parties are the worker and the employer within the workers' compensation system, and the third party is an outside person or entity. Because a third-party claim is a fault-based personal injury action, it generally requires proving that the third party was negligent — failed to use reasonable care — and that this caused the injury, unlike the no-fault workers' compensation claim.
 
@@ -54,7 +54,7 @@ This potential for broader recovery is a central reason third-party claims are p
 
 ## Reimbursement, coordination, and state variation
 
-A key feature of third-party claims is coordination with workers' compensation, which most states address through subrogation or a lien. Because the workers' compensation insurer has already paid benefits, many states allow that insurer to recover some of its payments out of a worker's third-party recovery, to avoid a double recovery for the same losses. How much can be recovered, and how any remainder is divided, varies by state.
+A key feature of third-party claims is coordination with workers' compensation, which most states address through [subrogation](https://www.law.cornell.edu/wex/subrogation) or a lien. Because the workers' compensation insurer has already paid benefits, many states allow that insurer to recover some of its payments out of a worker's third-party recovery, to avoid a double recovery for the same losses. How much can be recovered, and how any remainder is divided, varies by state.
 
 The rules differ in important ways by jurisdiction: which parties count as protected employers, how liens or reimbursement rights are calculated, whether the worker's own share of fault reduces the recovery, and the deadlines that apply. Because these coordination rules and the availability of a third-party claim are set by state law, the interaction between the two systems depends on the governing jurisdiction.
 

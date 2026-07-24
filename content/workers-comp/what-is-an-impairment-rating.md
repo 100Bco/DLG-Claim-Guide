@@ -28,7 +28,7 @@ updated: ""
 
 An impairment rating is an estimate, usually expressed as a percentage, of the permanent loss of function that remains after a work injury has stabilized. It is generally assigned once a worker reaches maximum medical improvement — the point at which the condition is no longer expected to improve significantly with treatment. The rating attempts to capture how much lasting impairment the injury has caused.
 
-An impairment rating measures medical impairment, which is not always the same as disability. Impairment generally describes a loss of function of the body, while disability describes how that loss affects the ability to work or perform activities. Many workers' compensation systems use the impairment rating as a starting point and then apply their own rules to translate it into benefits, sometimes adjusting for factors like age, occupation, or earning capacity.
+An impairment rating measures medical impairment, which is not always the same as disability. Impairment generally describes a loss of function of the body, while disability describes how that loss affects the ability to work or perform activities. Many [workers' compensation](https://www.law.cornell.edu/wex/workers_compensation) systems use the impairment rating as a starting point and then apply their own rules to translate it into benefits, sometimes adjusting for factors like age, occupation, or earning capacity.
 
 Because impairment ratings carry financial consequences within a claim, the method used to calculate them and the way they convert into benefits are defined by each state and can differ significantly.
 
@@ -54,7 +54,7 @@ Because each state applies its own formula, the same impairment percentage can p
 
 Impairment rating is an area of substantial state variation. States differ in which standardized guide or edition they require, how they handle ratings for injuries to specific body parts versus the body as a whole, whether and how they adjust ratings for vocational factors, and how disputes over ratings are resolved. A given injury may be rated somewhat differently, and valued quite differently, depending on the state.
 
-Federal workers' compensation programs administered by the U.S. Department of Labor use their own separate standards that do not govern state claims. Because the rating method and its benefit consequences are jurisdiction-specific, an impairment rating should be understood within the rules of the state where the claim is filed.
+Federal workers' compensation programs administered by the [U.S. Department of Labor](https://www.dol.gov/general/topic/workcomp) use their own separate standards that do not govern state claims. Because the rating method and its benefit consequences are jurisdiction-specific, an impairment rating should be understood within the rules of the state where the claim is filed.
 
 ## Scheduled and unscheduled injuries
 

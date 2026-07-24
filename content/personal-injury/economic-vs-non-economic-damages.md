@@ -28,9 +28,9 @@ updated: ""
 
 In a personal injury case, damages are the money a court may award to compensate an injured party for losses caused by another's conduct. These compensatory damages are commonly divided into two categories: economic and non-economic. Both aim to make the injured person whole, but they address different kinds of harm.
 
-Economic damages cover concrete financial losses that can be measured and documented. Non-economic damages compensate for intangible harms that do not come with a receipt but are still recognized as real injuries. The distinction matters because the two categories are proven in different ways and, in some states, treated differently under the law.
+Economic damages cover concrete financial losses that can be measured and documented. [Non-economic damages](https://www.law.cornell.edu/wex/damages) compensate for intangible harms that do not come with a receipt but are still recognized as real injuries. The distinction matters because the two categories are proven in different ways and, in some states, treated differently under the law.
 
-A statute such as California Civil Code section 1431.2 illustrates the divide, defining economic damages as objectively verifiable monetary losses and non-economic damages as subjective, non-monetary losses. That definition reflects California's approach; other states describe the categories through their own statutes and case law.
+A statute such as [California Civil Code section 1431.2](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1431.2) illustrates the divide, defining economic damages as objectively verifiable monetary losses and non-economic damages as subjective, non-monetary losses. That definition reflects California's approach; other states describe the categories through their own statutes and case law.
 
 ## What economic damages include
 
