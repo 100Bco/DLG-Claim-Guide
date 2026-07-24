@@ -1,0 +1,6 @@
+{
+  "name": "The Claims Guide",
+  "description": "A static, question-based legal information site explaining how claims and courts actually work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
