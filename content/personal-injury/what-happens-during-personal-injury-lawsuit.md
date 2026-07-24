@@ -19,7 +19,7 @@ sources:
   - name: "American Bar Association — Public Education"
     url: "https://www.americanbar.org/groups/public_education/"
 outbound_link:
-  url: "https://www.danglawgroup.com/"
+  url: "https://danglawgroup.com/what-to-expect-from-an-austin-car-accident-trial/"
   anchor: "how the litigation process unfolds under Texas law"
 author: "Editorial Team — The Claims Guide"
 published: true
@@ -68,7 +68,7 @@ A trial may end in a verdict for either side. The losing party may have the opti
 
 Although the general sequence is similar across the country, many important details differ by jurisdiction. Filing deadlines, the scope and timing of discovery, mandatory mediation requirements, and the rules for calculating fault can all vary from one state to another. For example, the deadline to file suit and the way a plaintiff's own share of fault affects recovery are set by each state's statutes and case law.
 
-Because these rules are state-specific, a general overview cannot substitute for the procedures of the court where a case is filed. Readers comparing jurisdictions may find it useful to review [how the litigation process unfolds under Texas law](https://www.danglawgroup.com/) as one example of how a single state structures these steps.
+Because these rules are state-specific, a general overview cannot substitute for the procedures of the court where a case is filed. Readers comparing jurisdictions may find it useful to review [how the litigation process unfolds under Texas law](https://danglawgroup.com/what-to-expect-from-an-austin-car-accident-trial/) as one example of how a single state structures these steps.
 
 ## What typically happens after resolution
 

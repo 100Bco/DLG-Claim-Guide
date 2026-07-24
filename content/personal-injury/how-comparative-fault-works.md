@@ -18,7 +18,7 @@ sources:
   - name: "Restatement (Third) of Torts: Apportionment of Liability"
     url: ""
 outbound_link:
-  url: "https://www.danglawgroup.com/"
+  url: "https://danglawgroup.com/texas-comparative-fault-can-you-still-recover-damages-if-you-were-partially-at-fault/"
   anchor: "how Texas applies proportionate responsibility"
 author: "Editorial Team — The Claims Guide"
 published: true
@@ -48,7 +48,7 @@ Most states use a modified comparative negligence system, which allows reduced r
 - **50 percent bar** — a plaintiff may recover only if their fault is less than 50 percent; at 50 percent or more, recovery is barred.
 - **51 percent bar** — a plaintiff may recover only if their fault does not exceed 50 percent; once fault reaches 51 percent, recovery is barred.
 
-Texas, for example, uses a modified system in which a claimant may not recover if their percentage of responsibility is greater than 50 percent, under Chapter 33 of the Texas Civil Practice and Remedies Code. That figure is Texas's rule, set by statute, and other states set their thresholds differently. Readers comparing approaches may review [how Texas applies proportionate responsibility](https://www.danglawgroup.com/) as one worked example of a modified system.
+Texas, for example, uses a modified system in which a claimant may not recover if their percentage of responsibility is greater than 50 percent, under Chapter 33 of the Texas Civil Practice and Remedies Code. That figure is Texas's rule, set by statute, and other states set their thresholds differently. Readers comparing approaches may review [how Texas applies proportionate responsibility](https://danglawgroup.com/texas-comparative-fault-can-you-still-recover-damages-if-you-were-partially-at-fault/) as one worked example of a modified system.
 
 ## Contributory negligence: the strict minority rule
 

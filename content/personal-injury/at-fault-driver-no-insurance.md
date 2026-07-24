@@ -16,7 +16,7 @@ sources:
   - name: "Cornell Legal Information Institute — Subrogation"
     url: "https://www.law.cornell.edu/wex/subrogation"
 outbound_link:
-  url: "https://www.danglawgroup.com/"
+  url: "https://danglawgroup.com/what-to-do-if-you-get-hit-by-an-uninsured-driver-in-austin/"
   anchor: "how Texas handles claims against uninsured drivers"
 author: "Editorial Team — The Claims Guide"
 published: true
@@ -52,7 +52,7 @@ Collecting a judgment from an uninsured individual can be challenging, particula
 
 The landscape here is heavily state-specific, and several limits commonly apply. States differ in whether uninsured and underinsured motorist coverage is required, in the minimum liability limits drivers must carry, and in how first-party claims are handled. They also differ in judgment-collection procedures and in the exemptions that shield a debtor's wages and property, which can determine how much of a judgment is realistically collectible.
 
-Time limits apply as well. Claims — including claims under a person's own policy — are subject to deadlines that vary by jurisdiction and by policy terms. Because of this variation, the practical answer to what happens when an at-fault party is uninsured depends on the state's insurance laws and collection rules. Readers comparing systems may consider [how Texas handles claims against uninsured drivers](https://www.danglawgroup.com/) as one example.
+Time limits apply as well. Claims — including claims under a person's own policy — are subject to deadlines that vary by jurisdiction and by policy terms. Because of this variation, the practical answer to what happens when an at-fault party is uninsured depends on the state's insurance laws and collection rules. Readers comparing systems may consider [how Texas handles claims against uninsured drivers](https://danglawgroup.com/what-to-do-if-you-get-hit-by-an-uninsured-driver-in-austin/) as one example.
 
 ## Coordinating and combining coverages
 
