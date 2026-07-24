@@ -16,7 +16,7 @@ export default function Home() {
   };
 
   return (
-    <div className="max-w-5xl mx-auto px-6 py-16 md:py-24">
+    <div className="max-w-5xl mx-auto px-6 pt-16 md:pt-24 pb-12">
       <div className="max-w-2xl mb-16">
         <h1 className="font-display text-4xl md:text-5xl lg:text-6xl tracking-tight leading-tight mb-6">
           How claims and courts actually work
