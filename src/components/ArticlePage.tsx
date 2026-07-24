@@ -3,18 +3,19 @@ import Markdown from "react-markdown";
 import { TOPICS } from "../types";
 import { getArticleBySlug, getArticlesByTopic } from "../lib/content";
 import { ChevronRight, ExternalLink } from "lucide-react";
+import NotFound from "./NotFound";
 
 export default function ArticlePage() {
   const { slug } = useParams<{ slug: string }>();
   const article = slug ? getArticleBySlug(slug) : undefined;
 
   if (!article) {
-    return <div className="max-w-4xl mx-auto px-6 py-24">Article not found.</div>;
+    return <NotFound />;
   }
 
   const { content, data } = article;
   const topic = TOPICS.find((t) => t.id === data.topic);
-  
+
   // Resolve related articles
   const relatedArticles = (data.related || [])
     .map((relatedSlug) => getArticleBySlug(relatedSlug))
@@ -25,24 +26,9 @@ export default function ArticlePage() {
     .filter(a => a.data.slug !== data.slug)
     .slice(0, 3);
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [{
-      "@type": "Question",
-      "name": data.title,
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": data.short_answer
-      }
-    }]
-  };
-
   return (
     <article className="max-w-3xl mx-auto px-6 py-12 md:py-20">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      
-      <nav className="flex items-center text-sm font-medium text-text-tertiary mb-12">
+      <nav aria-label="Breadcrumb" className="flex items-center text-sm font-medium text-text-tertiary mb-12">
         <Link to="/" className="hover:text-text-primary transition-colors">Home</Link>
         <ChevronRight className="w-4 h-4 mx-2" />
         {topic && (

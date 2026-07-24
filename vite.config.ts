@@ -3,12 +3,28 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig} from 'vite';
 
-export default defineConfig(() => {
+export default defineConfig(({isSsrBuild}) => {
   return {
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
+      },
+    },
+    build: {
+      rollupOptions: {
+        // manualChunks only applies to the browser bundle; the SSR build keeps
+        // react/react-dom external, which is incompatible with manualChunks.
+        output: isSsrBuild
+          ? {}
+          : {
+              // Split heavy, rarely-changing vendor code so the main bundle
+              // stays small and browser caching survives content updates.
+              manualChunks: {
+                'react-vendor': ['react', 'react-dom', 'react-router-dom'],
+                markdown: ['react-markdown'],
+              },
+            },
       },
     },
     server: {

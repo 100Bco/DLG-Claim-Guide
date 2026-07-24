@@ -2,13 +2,14 @@ import { Link, useParams } from "react-router-dom";
 import { TOPICS } from "../types";
 import { getArticlesByTopic } from "../lib/content";
 import { ChevronRight } from "lucide-react";
+import NotFound from "./NotFound";
 
 export default function TopicPage() {
   const { topicId } = useParams<{ topicId: string }>();
   const topic = TOPICS.find((t) => t.id === topicId);
-  
+
   if (!topic) {
-    return <div className="max-w-4xl mx-auto px-6 py-24">Topic not found.</div>;
+    return <NotFound />;
   }
 
   const articles = getArticlesByTopic(topic.id);
@@ -16,7 +17,7 @@ export default function TopicPage() {
   return (
     <div className="max-w-4xl mx-auto px-6 py-12 md:py-20">
       <div className="mb-16">
-        <nav className="flex items-center text-sm font-medium text-text-tertiary mb-6">
+        <nav aria-label="Breadcrumb" className="flex items-center text-sm font-medium text-text-tertiary mb-6">
           <Link to="/" className="hover:text-text-primary transition-colors">Home</Link>
           <ChevronRight className="w-4 h-4 mx-2" />
           <span className="text-text-primary">{topic.title}</span>
