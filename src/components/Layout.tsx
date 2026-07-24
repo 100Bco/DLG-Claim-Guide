@@ -59,7 +59,7 @@ export default function Layout() {
         <Outlet />
       </main>
 
-      <footer className="border-t border-border-subtle py-12 px-6 mt-20">
+      <footer className="border-t border-border-subtle py-12 px-6 mt-12">
         <div className="max-w-5xl mx-auto">
           <p className="text-sm text-text-secondary leading-relaxed max-w-3xl">
             <strong className="text-text-primary">Disclaimer:</strong> The information provided here is for general
