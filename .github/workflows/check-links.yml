@@ -1,0 +1,28 @@
+name: Check citation links
+
+# Verifies that every citation/URL in content is reachable, and that related
+# slugs resolve, before articles go live. Runs on content changes.
+on:
+  pull_request:
+    paths:
+      - "content/**/*.md"
+      - "scripts/check-links.mjs"
+      - ".github/workflows/check-links.yml"
+  push:
+    branches: [main]
+    paths:
+      - "content/**/*.md"
+      - "scripts/check-links.mjs"
+  workflow_dispatch: {}
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      # No install needed — the checker is zero-dependency (uses global fetch).
+      - name: Check citation links
+        run: node scripts/check-links.mjs

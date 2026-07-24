@@ -9,6 +9,7 @@
     "build:client": "vite build",
     "build:server": "vite build --ssr src/entry-server.tsx --outDir dist-ssr",
     "prerender": "node scripts/prerender.mjs",
+    "check:links": "node scripts/check-links.mjs",
     "build:spa": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist dist-ssr server.js",
