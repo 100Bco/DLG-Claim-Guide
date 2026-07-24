@@ -25,17 +25,26 @@ export default function Home() {
           We explain how claims and courts actually work. No legal advice, no attorney advertising. Just neutral information about the systems you are navigating.
         </p>
 
-        <form onSubmit={handleSearch} className="relative max-w-lg">
+        <form onSubmit={handleSearch} role="search" className="relative max-w-lg">
+          <label htmlFor="home-search" className="sr-only">
+            Search questions
+          </label>
           <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-            <Search className="h-5 w-5 text-text-tertiary" />
+            <Search className="h-5 w-5 text-text-tertiary" aria-hidden="true" />
           </div>
           <input
-            type="text"
-            className="block w-full pl-12 pr-4 py-4 bg-surface-elevated border border-border-strong rounded-sm text-lg focus:ring-1 focus:ring-[#E8E8E6] focus:border-text-primary transition-colors placeholder:text-text-tertiary"
+            id="home-search"
+            name="q"
+            type="search"
+            enterKeyHint="search"
+            className="block w-full pl-12 pr-4 py-4 bg-surface-elevated border border-border-strong rounded-sm text-lg focus:border-text-primary transition-colors placeholder:text-text-tertiary"
             placeholder="Search questions..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
           />
+          <button type="submit" className="sr-only">
+            Search
+          </button>
         </form>
       </div>
 

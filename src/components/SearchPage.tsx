@@ -96,13 +96,19 @@ export default function SearchPage() {
 
       {/* Main Content */}
       <div className="flex-grow">
-        <div className="relative mb-12">
+        <div role="search" className="relative mb-12">
+          <label htmlFor="questions-search" className="sr-only">
+            Search all questions
+          </label>
           <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-            <SearchIcon className="h-5 w-5 text-text-tertiary" />
+            <SearchIcon className="h-5 w-5 text-text-tertiary" aria-hidden="true" />
           </div>
           <input
-            type="text"
-            className="block w-full pl-12 pr-4 py-4 bg-surface-elevated border border-border-strong rounded-sm text-lg focus:ring-1 focus:ring-[#E8E8E6] focus:border-text-primary transition-colors placeholder:text-text-tertiary"
+            id="questions-search"
+            name="q"
+            type="search"
+            enterKeyHint="search"
+            className="block w-full pl-12 pr-4 py-4 bg-surface-elevated border border-border-strong rounded-sm text-lg focus:border-text-primary transition-colors placeholder:text-text-tertiary"
             placeholder="Search all questions..."
             value={query}
             onChange={handleQueryChange}
@@ -110,7 +116,7 @@ export default function SearchPage() {
         </div>
 
         <div className="mb-6 flex justify-between items-center text-sm font-ui text-text-tertiary">
-          <span>Showing {filteredArticles.length} {filteredArticles.length === 1 ? "question" : "questions"}</span>
+          <span aria-live="polite">Showing {filteredArticles.length} {filteredArticles.length === 1 ? "question" : "questions"}</span>
         </div>
 
         {filteredArticles.length === 0 ? (
