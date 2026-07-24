@@ -16,8 +16,8 @@ sources:
   - name: "California Civil Code § 1431.2 (California Legislature)"
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1431.2"
 outbound_link:
-  url: "https://www.danglawgroup.com/"
-  anchor: "how Texas categorizes recoverable damages"
+  url: "https://danglawgroup.com/damage-caps-in-texas-law/"
+  anchor: "how Texas caps certain damages"
 author: "Editorial Team — The Claims Guide"
 published: true
 date: "2026-07-24"
@@ -54,7 +54,7 @@ Because there is no bill for these losses, they are inherently harder to quantif
 
 How non-economic damages are treated differs significantly by jurisdiction, and this is where state variation is most pronounced. Some states impose statutory caps that limit the amount of non-economic damages a plaintiff may recover, often in particular categories such as medical malpractice, while other states impose no such caps or have had them struck down under their constitutions. Whether a cap applies, and to which claims, is determined by each state's law.
 
-States also differ in how a plaintiff's own fault interacts with damages. Under comparative fault rules, an award of both economic and non-economic damages may be reduced by the plaintiff's percentage of responsibility, and the mechanics of that reduction vary. Readers comparing systems may consider [how Texas categorizes recoverable damages](https://www.danglawgroup.com/) as one state's framework. Because these rules are jurisdiction-specific, the general categories described here should not be read as a uniform national standard.
+States also differ in how a plaintiff's own fault interacts with damages. Under comparative fault rules, an award of both economic and non-economic damages may be reduced by the plaintiff's percentage of responsibility, and the mechanics of that reduction vary. Readers comparing systems may consider [how Texas caps certain damages](https://danglawgroup.com/damage-caps-in-texas-law/) as one state's framework. Because these rules are jurisdiction-specific, the general categories described here should not be read as a uniform national standard.
 
 ## How each category is proven
 
