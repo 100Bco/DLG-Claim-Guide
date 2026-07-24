@@ -15,7 +15,7 @@ export default function TopicPage() {
   const articles = getArticlesByTopic(topic.id);
 
   return (
-    <div className="max-w-4xl mx-auto px-6 py-12 md:py-20">
+    <div className="max-w-5xl mx-auto px-6 py-12 md:py-20">
       <div className="mb-16">
         <nav aria-label="Breadcrumb" className="flex items-center text-sm font-medium text-text-tertiary mb-6">
           <Link to="/" className="hover:text-text-primary transition-colors">Home</Link>

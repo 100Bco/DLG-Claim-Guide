@@ -60,7 +60,7 @@ export default function Layout() {
       </main>
 
       <footer className="border-t border-border-subtle py-12 px-6 mt-20">
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-5xl mx-auto">
           <p className="text-sm text-text-secondary leading-relaxed max-w-3xl">
             <strong className="text-text-primary">Disclaimer:</strong> The information provided here is for general
             reference purposes only and does not constitute legal advice. Laws and regulations vary by jurisdiction and
