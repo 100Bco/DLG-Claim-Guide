@@ -29,7 +29,7 @@ updated: ""
 
 ## How a personal injury lawsuit begins
 
-A personal injury lawsuit is a civil action in which one party (the plaintiff) claims that another party (the defendant) caused harm and should pay compensation. It generally begins when the plaintiff files a complaint — the formal document that names the parties, describes what allegedly happened, and states the legal grounds for the claim, most often negligence (a failure to use reasonable care).
+A personal injury lawsuit is a civil action in which one party (the plaintiff) claims that another party (the defendant) caused harm and should pay compensation. It generally begins when the plaintiff files a complaint — the formal document that names the parties, describes what allegedly happened, and states the legal grounds for the claim, most often [negligence](https://www.law.cornell.edu/wex/tort) (a failure to use reasonable care).
 
 After the complaint is filed, the defendant is served with a copy and usually has a limited period to respond by filing an answer. The answer admits or denies the allegations and may raise defenses. This opening exchange of documents is known as the pleadings phase, and it frames the issues the rest of the case will address.
 
@@ -37,7 +37,7 @@ Timing at this stage is shaped by the statute of limitations, the deadline for b
 
 ## Discovery: exchanging evidence
 
-Once pleadings are complete, most cases enter discovery, the fact-gathering phase in which each side obtains information from the other. Discovery is often the longest part of a lawsuit. Under rules modeled on Federal Rule of Civil Procedure 26 and comparable state rules, parties may generally obtain any non-privileged information relevant to a claim or defense.
+Once pleadings are complete, most cases enter discovery, the fact-gathering phase in which each side obtains information from the other. Discovery is often the longest part of a lawsuit. Under rules modeled on [Federal Rule of Civil Procedure 26](https://www.law.cornell.edu/rules/frcp/rule_26) and comparable state rules, parties may generally obtain any non-privileged information relevant to a claim or defense.
 
 Common discovery tools include:
 

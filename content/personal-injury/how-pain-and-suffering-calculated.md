@@ -26,7 +26,7 @@ updated: ""
 
 ## Why pain and suffering is hard to quantify
 
-"Pain and suffering" is a form of non-economic damages — compensation for intangible harm rather than measurable financial loss. It can encompass physical pain, emotional distress, and a diminished ability to enjoy daily life. Unlike a medical bill or a lost paycheck, these harms do not come with a dollar amount attached, which makes them inherently difficult to measure.
+"Pain and suffering" is a form of [non-economic damages](https://www.law.cornell.edu/wex/damages) — compensation for intangible harm rather than measurable financial loss. It can encompass physical pain, emotional distress, and a diminished ability to enjoy daily life. Unlike a medical bill or a lost paycheck, these harms do not come with a dollar amount attached, which makes them inherently difficult to measure.
 
 Because there is no receipt for suffering, the law does not supply a precise equation to convert it into money. Instead, the value of these damages is generally treated as a question for the finder of fact — the jury, or the judge in a bench trial — to decide after considering the evidence. That evidence may include testimony about the injury, its effects on the person's life, and the expected course of recovery.
 
@@ -68,6 +68,6 @@ The nature and permanence of an injury can also shape the assessment. Harms expe
 
 ## How these damages fit a claim
 
-In most personal injury claims, pain and suffering is one component of the overall damages, alongside economic losses such as medical costs and lost income. During settlement talks, the parties often discuss it as part of a single negotiated figure rather than a separately itemized amount, and at trial a jury may be asked to assign a value as part of its verdict.
+In most personal injury claims, pain and suffering is one component of the overall damages, alongside economic losses such as medical costs and lost income. During [settlement talks](https://selfhelp.courts.ca.gov/), the parties often discuss it as part of a single negotiated figure rather than a separately itemized amount, and at trial a jury may be asked to assign a value as part of its verdict.
 
 The central point is that pain and suffering is assessed, not computed. It rests on evidence and judgment, is shaped by state-specific limits, and does not lend itself to any fixed number that applies across cases.

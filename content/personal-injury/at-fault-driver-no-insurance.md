@@ -40,7 +40,7 @@ In the motor vehicle context, many people carry coverage that can respond when t
 - **Underinsured motorist (UIM) coverage** — may apply when the at-fault driver has some insurance, but not enough to cover the losses.
 - **Medical payments or personal injury protection** — depending on the policy and state, these may help cover medical costs regardless of fault.
 
-Whether these coverages exist on a given policy, whether they are mandatory or optional, and how they operate all vary by state. According to consumer information from insurance regulators, some states require uninsured motorist coverage while others make it optional, so its availability is jurisdiction-dependent.
+Whether these coverages exist on a given policy, whether they are mandatory or optional, and how they operate all vary by state. According to consumer information from [insurance regulators](https://content.naic.org/), some states require uninsured motorist coverage while others make it optional, so its availability is jurisdiction-dependent.
 
 ## Claiming directly against the responsible party
 
@@ -59,7 +59,7 @@ Time limits apply as well. Claims — including claims under a person's own poli
 When more than one source of coverage exists, questions arise about how they fit together, and the answers are largely governed by state law and policy terms. First-party coverages such as uninsured and underinsured motorist protection do not always operate in isolation.
 
 - **Stacking** — in some states, a person with coverage on more than one vehicle or policy may be able to combine, or "stack," the limits, increasing the total available. Other states restrict or prohibit stacking, and policy language may address it directly.
-- **Coordination with health coverage** — medical costs may be paid initially by a health plan, which may then assert a right to reimbursement from any recovery through subrogation.
+- **Coordination with health coverage** — medical costs may be paid initially by a health plan, which may then assert a right to reimbursement from any recovery through [subrogation](https://www.law.cornell.edu/wex/subrogation).
 - **Order of claims** — underinsured motorist coverage typically comes into play only after the at-fault party's available liability limits are established or exhausted, following procedures set by the policy and state law.
 
 These interactions can significantly affect how much compensation is ultimately available and who is repaid from it. Because stacking rules, subrogation rights, and the sequence in which coverages apply all vary by jurisdiction and by the specific policies involved, the way multiple coverages combine is determined by the governing state's law and the policy terms in effect. A recurring point is that the existence of coverage is only part of the picture; how the coverages coordinate can matter just as much.

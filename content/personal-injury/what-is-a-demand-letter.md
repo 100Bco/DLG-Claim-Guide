@@ -28,7 +28,7 @@ updated: ""
 
 A demand letter is a formal written statement in which one party sets out a claim against another and asks for a specific response, most often payment of a sum of money. In the personal injury context, it is typically sent by an injured person, or an attorney on their behalf, to the party alleged to be responsible or to that party's insurance company.
 
-The letter serves as an organized presentation of the claim. It generally lays out what happened, why the recipient is considered legally responsible, and what the sender is seeking. Rather than being a court filing, a demand letter is usually a step in negotiation — an invitation to resolve the matter without, or before, formal litigation.
+The letter serves as an organized presentation of the claim. It generally lays out what happened, why the recipient is considered legally responsible, and what the sender is seeking. Rather than being a court filing, a demand letter is usually a step in [negotiation](https://selfhelp.courts.ca.gov/) — an invitation to resolve the matter without, or before, formal litigation.
 
 Because it frames the claim, a demand letter can influence the tone and direction of everything that follows. A clear, well-supported letter may prompt a serious response, while a vague one may draw a low offer or none at all.
 
@@ -46,7 +46,7 @@ Supporting documentation is frequently attached or referenced, such as medical r
 
 ## How demand letters fit into negotiation
 
-A demand letter often marks the beginning of settlement negotiations. The recipient — commonly an insurance adjuster — may accept, reject, or respond with a counteroffer. The figures then move back and forth as each side evaluates the claim. Many cases resolve at this stage, before a lawsuit is filed, which can save both sides the cost and time of litigation.
+A demand letter often marks the beginning of [settlement](https://www.law.cornell.edu/wex/settlement) negotiations. The recipient — commonly an insurance adjuster — may accept, reject, or respond with a counteroffer. The figures then move back and forth as each side evaluates the claim. Many cases resolve at this stage, before a lawsuit is filed, which can save both sides the cost and time of litigation.
 
 The letter can also carry practical weight later. It documents that a claim was communicated and describes the sender's position, which may become relevant if negotiations fail and the dispute proceeds to court.
 
