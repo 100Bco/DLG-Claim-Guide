@@ -16,7 +16,7 @@ export default function Home() {
   };
 
   return (
-    <div className="max-w-4xl mx-auto px-6 py-16 md:py-24">
+    <div className="max-w-5xl mx-auto px-6 py-16 md:py-24">
       <div className="max-w-2xl mb-16">
         <h1 className="font-display text-4xl md:text-5xl lg:text-6xl tracking-tight leading-tight mb-6">
           How claims and courts actually work
@@ -63,7 +63,7 @@ export default function Home() {
             >
               <div className="flex items-start justify-between gap-4 mb-4">
                 <span
-                  className="font-mono text-3xl md:text-4xl font-light leading-none tabular-nums text-border-strong group-hover:text-text-tertiary transition-colors"
+                  className="font-ui text-3xl md:text-4xl font-light leading-none tabular-nums text-border-strong group-hover:text-text-tertiary transition-colors"
                   aria-hidden="true"
                 >
                   {String(i + 1).padStart(2, "0")}
