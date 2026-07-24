@@ -82,6 +82,25 @@ Markdown body goes here...
 Topics are defined in `src/types.ts` (`TOPICS`). Add an entry there to create a
 new topic section.
 
+### Verifying citations before publishing
+
+Every source URL should resolve before an article goes live. A zero-dependency
+checker validates this:
+
+```bash
+npm run check:links                 # check every URL in content/
+node scripts/check-links.mjs --dry-run          # list URLs, no network calls
+node scripts/check-links.mjs --strict           # also fail on 403/429/5xx
+node scripts/check-links.mjs content/personal-injury/foo.md   # specific files
+```
+
+It scans all URLs (in `sources`, `outbound_link`, and body links), reports each
+one's HTTP status, and also warns when a `related:` slug has no matching article
+yet. A broken link (404/410/DNS/timeout) exits non-zero. Non-2xx responses from
+known bot-protected hosts (e.g. `law.cornell.edu`) are reported as warnings, not
+failures — verify those manually. The checker runs automatically in CI
+(`.github/workflows/check-links.yml`) on any change under `content/`.
+
 ## Deployment
 
 The `./dist` output is fully static. It works on Netlify, Cloudflare Pages,
