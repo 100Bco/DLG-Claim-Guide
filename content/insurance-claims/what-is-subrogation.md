@@ -16,8 +16,8 @@ sources:
   - name: "National Association of Insurance Commissioners (NAIC)"
     url: "https://content.naic.org/"
 outbound_link:
-  url: ""
-  anchor: ""
+  url: "https://danglawgroup.com/guide-to-negotiating-with-insurance-companies-in-texas/"
+  anchor: "how one state approaches dealings with insurers"
 author: "Editorial Team — The Claims Guide"
 published: true
 date: "2026-07-24"
@@ -53,7 +53,7 @@ These sources can overlap, and states treat them differently. The distinctions c
 
 Subrogation can directly affect a policyholder's own recovery, and this is where state variation becomes especially important. A frequent issue is the "made whole" doctrine, under which many states hold that an insurer generally may not recover through subrogation until the policyholder has been fully compensated for the loss. States apply this doctrine differently, and in some it can be modified by policy language, while in others it is more protective of the policyholder.
 
-Related rules address the "common fund" doctrine, under which an insurer that benefits from a recovery the policyholder obtained may be required to share in the attorney fees and costs of obtaining it. Whether and how these doctrines apply depends on the state. Because subrogation sits at the intersection of the policy and state law, its effect on any recovery depends on the jurisdiction, the terms of the policy, and how the governing state applies the made-whole and common-fund doctrines.
+Related rules address the "common fund" doctrine, under which an insurer that benefits from a recovery the policyholder obtained may be required to share in the attorney fees and costs of obtaining it. Whether and how these doctrines apply depends on the state. Because subrogation sits at the intersection of the policy and state law, its effect on any recovery depends on the jurisdiction; for a sense of how these dealings unfold in one state, see [how one state approaches dealings with insurers](https://danglawgroup.com/guide-to-negotiating-with-insurance-companies-in-texas/).
 
 ## Waivers and limits on subrogation
 

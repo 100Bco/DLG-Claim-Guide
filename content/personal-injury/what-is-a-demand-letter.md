@@ -16,8 +16,8 @@ sources:
   - name: "California Courts — Self-Help Center"
     url: "https://selfhelp.courts.ca.gov/"
 outbound_link:
-  url: ""
-  anchor: ""
+  url: "https://danglawgroup.com/guide-to-negotiating-with-insurance-companies-in-texas/"
+  anchor: "how demand letters function in Texas injury claims"
 author: "Editorial Team — The Claims Guide"
 published: true
 date: "2026-07-24"
@@ -68,7 +68,7 @@ The legal effect of a time-limited or policy-limit demand is not uniform across 
 
 A demand letter is generally not required to bring an ordinary personal injury claim, but the surrounding rules vary by jurisdiction, and there are notable exceptions. Some states require a formal notice or a pre-suit demand in specific categories of cases. For example, claims against government entities often must follow strict notice-of-claim procedures with short deadlines set by state law, and certain consumer-protection or insurance statutes may require a demand before particular remedies become available.
 
-The legal effect of a demand can also differ. In some jurisdictions, sending a proper demand and being met with an unreasonable refusal may affect the availability of certain remedies or cost-shifting under specific statutes. Because these requirements are state-specific, whether a demand is optional, advisable, or mandatory depends on the type of claim and the governing law. A demand that carries significant legal weight in one state may be treated as a routine, optional step in another.
+The legal effect of a demand can also differ. In some jurisdictions, sending a proper demand and being met with an unreasonable refusal may affect the availability of certain remedies or cost-shifting under specific statutes. Because these requirements are state-specific, whether a demand is optional, advisable, or mandatory depends on the type of claim and the governing law. Readers comparing jurisdictions may consider [how demand letters function in Texas injury claims](https://danglawgroup.com/guide-to-negotiating-with-insurance-companies-in-texas/) as one state's illustration.
 
 ## What happens after a demand
 
