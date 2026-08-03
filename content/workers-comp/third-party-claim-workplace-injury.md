@@ -17,8 +17,8 @@ sources:
   - name: "California Department of Industrial Relations — Division of Workers' Compensation"
     url: "https://www.dir.ca.gov/dwc/"
 outbound_link:
-  url: "https://danglawgroup.com/negligence-vs-gross-negligence-in-texas-personal-injury-law/"
-  anchor: "how one state distinguishes degrees of fault in injury claims"
+  url: ""
+  anchor: ""
 author: "Editorial Team — The Claims Guide"
 published: true
 date: "2026-07-24"
@@ -50,7 +50,7 @@ Whether a particular party can be pursued depends on the facts and on the state'
 
 A third-party claim can matter because personal injury law may compensate losses that workers' compensation does not. Workers' compensation generally provides medical care and partial wage replacement but does not pay for pain and suffering. A successful third-party personal injury claim, being fault-based, may allow recovery of a broader range of damages, including non-economic losses, subject to proof and state limits.
 
-This potential for broader recovery is a central reason third-party claims are pursued. The trade-off is that, unlike no-fault workers' compensation, the third-party claim requires proving negligence and carries the ordinary risks of civil litigation. State approaches to fault can differ, as illustrated by [how one state distinguishes degrees of fault in injury claims](https://danglawgroup.com/negligence-vs-gross-negligence-in-texas-personal-injury-law/).
+This potential for broader recovery is a central reason third-party claims are pursued. The trade-off is that, unlike no-fault workers' compensation, the third-party claim requires proving negligence and carries the ordinary risks of civil litigation. How fault is defined and apportioned in that negligence claim can differ significantly from one state to another.
 
 ## Reimbursement, coordination, and state variation
 

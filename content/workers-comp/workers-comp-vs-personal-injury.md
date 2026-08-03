@@ -17,8 +17,8 @@ sources:
   - name: "U.S. Department of Labor — Workers' Compensation"
     url: "https://www.dol.gov/general/topic/workcomp"
 outbound_link:
-  url: "https://danglawgroup.com/what-happens-if-you-cant-return-to-work-after-injury-texas/"
-  anchor: "how one state addresses injuries that prevent a return to work"
+  url: ""
+  anchor: ""
 author: "Editorial Team — The Claims Guide"
 published: true
 date: "2026-07-24"
@@ -52,7 +52,7 @@ This difference reflects the trade-off: workers' compensation offers more certai
 
 A defining limit of workers' compensation is the exclusive remedy rule. In most states, when workers' compensation applies, it is generally the sole avenue for recovery against the employer for a workplace injury, meaning the employee usually cannot also sue the employer in tort. This is the counterpart to receiving no-fault benefits.
 
-However, the rule does not necessarily bar every claim. In many states, an injured worker may still pursue a personal injury claim against a party other than the employer — such as a negligent third party — even while receiving workers' compensation. Some states also recognize narrow exceptions allowing suit against an employer, for example in cases of intentional harm. Because these exceptions are defined by each state and are often narrow, whether one applies depends on the jurisdiction and the facts. State approaches differ, and one illustration is [how one state addresses injuries that prevent a return to work](https://danglawgroup.com/what-happens-if-you-cant-return-to-work-after-injury-texas/).
+However, the rule does not necessarily bar every claim. In many states, an injured worker may still pursue a personal injury claim against a party other than the employer — such as a negligent third party — even while receiving workers' compensation. Some states also recognize narrow exceptions allowing suit against an employer, for example in cases of intentional harm. Because these exceptions are defined by each state and are often narrow, whether one applies depends on the jurisdiction and the facts. State approaches differ widely, so the same workplace injury can open different avenues of recovery depending on where it occurred.
 
 ## Proof, timelines, and risk compared
 

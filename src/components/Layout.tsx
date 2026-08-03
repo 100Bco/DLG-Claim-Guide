@@ -62,9 +62,11 @@ export default function Layout() {
       <footer className="border-t border-border-subtle py-12 px-6 mt-12">
         <div className="max-w-5xl mx-auto">
           <p className="text-sm text-text-secondary leading-relaxed max-w-3xl">
-            <strong className="text-text-primary">Disclaimer:</strong> The information provided here is for general
-            reference purposes only and does not constitute legal advice. Laws and regulations vary by jurisdiction and
-            may have changed since publication. Consult a licensed attorney regarding your specific situation.
+            <strong className="text-text-primary">Not legal advice.</strong> The Claims Guide provides free, general
+            information about how legal claims and courts work in the United States. It does not provide legal advice or
+            legal services and is not a substitute for advice from a licensed attorney. Laws vary by state and change
+            over time. Using this site does not create an attorney&ndash;client relationship. For advice about a specific
+            situation, consult a licensed attorney in the relevant jurisdiction.
           </p>
           <p className="text-sm text-text-tertiary mt-6">
             &copy; {new Date().getFullYear()} The Claims Guide.
