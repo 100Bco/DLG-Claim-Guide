@@ -67,21 +67,29 @@ export default function Layout() {
 
       <footer className="border-t border-border-subtle py-12 px-6 mt-12">
         <div className="max-w-5xl mx-auto">
-          <p className="text-sm text-text-secondary leading-relaxed max-w-3xl">
+          <p className="text-xs text-text-secondary leading-relaxed max-w-3xl">
             <strong className="text-text-primary">Not legal advice.</strong> The Claims Guide provides free, general
             information about how legal claims and courts work in the United States. It does not provide legal advice or
             legal services and is not a substitute for advice from a licensed attorney. Laws vary by state and change
             over time. Using this site does not create an attorney&ndash;client relationship. For advice about a specific
             situation, consult a licensed attorney in the relevant jurisdiction.
           </p>
-          <p className="text-sm text-text-secondary leading-relaxed max-w-3xl mt-4">
+          <p className="text-xs text-text-secondary leading-relaxed max-w-3xl mt-4">
             <strong className="text-text-primary">Attorney advertising.</strong> This site contains attorney
-            advertising and links to {AD_FIRM}, a personal-injury law firm licensed in Texas, with offices in{" "}
-            {AD_FIRM_CITY}. {AD_FIRM} is responsible for this advertising. Contacting the firm does not create an
-            attorney&ndash;client relationship. Prior results do not guarantee a similar outcome, and recoveries vary.
-            There is no obligation to hire any attorney.
+            advertising and links to{" "}
+            <a
+              href="https://danglawgroup.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline decoration-border-strong underline-offset-2 hover:text-text-primary"
+            >
+              {AD_FIRM}
+            </a>
+            , a personal-injury law firm licensed in Texas, with offices in {AD_FIRM_CITY}. {AD_FIRM} is responsible for
+            this advertising. Contacting the firm does not create an attorney&ndash;client relationship. Prior results
+            do not guarantee a similar outcome, and recoveries vary. There is no obligation to hire any attorney.
           </p>
-          <p className="text-sm text-text-tertiary mt-6">
+          <p className="text-xs text-text-tertiary mt-6">
             &copy; {new Date().getFullYear()} The Claims Guide.
           </p>
         </div>
