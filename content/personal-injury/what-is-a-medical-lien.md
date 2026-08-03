@@ -16,8 +16,8 @@ sources:
   - name: "California Civil Code § 3045.1 — Hospital Lien Act (California Legislature)"
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3045.1"
 outbound_link:
-  url: ""
-  anchor: ""
+  url: "https://danglawgroup.com/how-to-calculate-the-value-of-a-compensation-in-texas-without-failing/"
+  anchor: "how compensation amounts are calculated in Texas"
 author: "Editorial Team — The Claims Guide"
 published: true
 date: "2026-07-24"
@@ -53,7 +53,7 @@ Lien amounts are not always fixed. Depending on the jurisdiction and the type of
 
 The rules governing medical liens differ substantially by jurisdiction, and this is where careful attention is often required. Statutory liens usually must meet specific requirements to be valid — for example, some state hospital lien laws apply only to certain providers, require the lien to be recorded or filed within a set time, and limit the lien to the reasonable value of services. [California's Hospital Lien Act](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3045.1) is one example of a statute that creates and defines such a lien; other states have their own laws with different conditions.
 
-Federal rules add another layer for government programs, which have their own reimbursement procedures that operate regardless of state law. Because these frameworks vary and can interact, whether a particular lien is valid and how much it may claim depends on the specific statutes involved. Because any valid lien is ultimately satisfied out of the recovery, the applicable state rules directly shape how much an injured person keeps once a claim resolves.
+Federal rules add another layer for government programs, which have their own reimbursement procedures that operate regardless of state law. Because these frameworks vary and can interact, whether a particular lien is valid and how much it may claim depends on the specific statutes involved. Because any valid lien is ultimately satisfied out of the recovery, readers comparing systems may also consider [how compensation amounts are calculated in Texas](https://danglawgroup.com/how-to-calculate-the-value-of-a-compensation-in-texas-without-failing/) as one state's approach.
 
 ## Identifying and resolving liens
 

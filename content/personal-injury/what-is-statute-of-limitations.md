@@ -16,8 +16,8 @@ sources:
   - name: "United States Courts"
     url: "https://www.uscourts.gov/"
 outbound_link:
-  url: ""
-  anchor: ""
+  url: "https://danglawgroup.com/statute-of-limitations-for-personal-injury-in-texas/"
+  anchor: "how this filing deadline works under Texas law"
 author: "Editorial Team — The Claims Guide"
 published: true
 date: "2026-07-24"
@@ -45,7 +45,7 @@ Whether and how the discovery rule applies depends on the jurisdiction and the t
 
 The length of a limitations period varies widely. Personal injury claims in many states fall in a range of roughly two to several years, but the precise figure is set by each state's statutes. For example, [California's Code of Civil Procedure section 335.1](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=335.1) sets a two-year period for most personal injury actions. That two-year figure is California's rule; other states set different periods, and no single number applies nationwide.
 
-Different claim types carry different deadlines within the same state as well. Contract claims, property damage claims, medical malpractice claims, and claims against government entities frequently have their own periods, some shorter and some longer. A deadline that seems generous for one kind of claim may be strikingly short for another, so the category of the claim matters as much as the state in which it arises.
+Different claim types carry different deadlines within the same state as well. Contract claims, property damage claims, medical malpractice claims, and claims against government entities frequently have their own periods, some shorter and some longer. Readers comparing systems may look at [how this filing deadline works under Texas law](https://danglawgroup.com/statute-of-limitations-for-personal-injury-in-texas/) as one state-specific example.
 
 ## Exceptions and events that pause the clock
 

@@ -8,6 +8,12 @@ export default function Layout() {
   // there to avoid two search entry points on the same screen.
   const isHome = useLocation().pathname === "/";
 
+  // Mode B — attorney advertising (site links to Dang Law Group).
+  // Responsible party for the advertising, per Texas advertising rules.
+  // Have DLG's compliance counsel confirm the wording before publishing.
+  const AD_FIRM = "Dang Law Group, PLLC";
+  const AD_FIRM_CITY = "Austin, Texas";
+
   return (
     <div className="min-h-screen flex flex-col font-ui text-text-primary bg-surface-base selection:bg-text-primary selection:text-surface-base">
       <RouteEffects />
@@ -67,6 +73,13 @@ export default function Layout() {
             legal services and is not a substitute for advice from a licensed attorney. Laws vary by state and change
             over time. Using this site does not create an attorney&ndash;client relationship. For advice about a specific
             situation, consult a licensed attorney in the relevant jurisdiction.
+          </p>
+          <p className="text-sm text-text-secondary leading-relaxed max-w-3xl mt-4">
+            <strong className="text-text-primary">Attorney advertising.</strong> This site contains attorney
+            advertising and links to {AD_FIRM}, a personal-injury law firm licensed in Texas, with offices in{" "}
+            {AD_FIRM_CITY}. {AD_FIRM} is responsible for this advertising. Contacting the firm does not create an
+            attorney&ndash;client relationship. Prior results do not guarantee a similar outcome, and recoveries vary.
+            There is no obligation to hire any attorney.
           </p>
           <p className="text-sm text-text-tertiary mt-6">
             &copy; {new Date().getFullYear()} The Claims Guide.
