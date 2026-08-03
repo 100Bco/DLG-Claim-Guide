@@ -54,20 +54,20 @@ export default function SearchPage() {
   };
 
   return (
-    <div className="max-w-5xl mx-auto px-6 py-12 md:py-20 flex flex-col md:flex-row gap-12">
+    <div className="max-w-5xl mx-auto px-6 py-12 md:py-20 flex flex-col md:flex-row gap-6 md:gap-12">
       {/* Sidebar Filters */}
       <aside className="w-full md:w-64 shrink-0">
-        <div className="sticky top-24">
-          <div className="mb-8">
+        <div className="md:sticky md:top-24">
+          <div className="mb-6 md:mb-8">
             <h2 className="font-ui text-sm font-semibold tracking-widest text-text-tertiary uppercase flex items-center gap-2 mb-4">
               <Filter className="w-4 h-4" />
               Filter by Topic
             </h2>
-            <div className="flex flex-col gap-2">
+            <div className="flex flex-row md:flex-col gap-2 overflow-x-auto md:overflow-visible pb-1 md:pb-0 scrollbar-hide">
               <button
                 onClick={() => handleTopicChange("all")}
                 className={cn(
-                  "text-left px-4 py-2 rounded-sm font-medium transition-colors text-sm",
+                  "text-left px-4 py-2 rounded-sm font-medium transition-colors text-sm whitespace-nowrap shrink-0 md:shrink",
                   activeTopic === "all" 
                     ? "bg-text-primary text-surface-base" 
                     : "text-text-secondary hover:text-text-primary hover:bg-surface-elevated"
@@ -80,7 +80,7 @@ export default function SearchPage() {
                   key={topic.id}
                   onClick={() => handleTopicChange(topic.id)}
                   className={cn(
-                    "text-left px-4 py-2 rounded-sm font-medium transition-colors text-sm",
+                    "text-left px-4 py-2 rounded-sm font-medium transition-colors text-sm whitespace-nowrap shrink-0 md:shrink",
                     activeTopic === topic.id 
                       ? "bg-text-primary text-surface-base" 
                       : "text-text-secondary hover:text-text-primary hover:bg-surface-elevated"
