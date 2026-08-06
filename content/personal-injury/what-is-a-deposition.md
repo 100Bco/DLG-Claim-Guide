@@ -65,7 +65,7 @@ The specific procedures for objections, instructions not to answer, and transcri
 
 ## Limits and variation by jurisdiction
 
-The rules governing depositions are not identical everywhere, and several limits commonly apply. Federal practice, for instance, generally presumes a limit of one day of seven hours for a single deposition and caps the number of depositions a side may take without permission, but state courts set their own limits, and those thresholds vary by jurisdiction. Some states impose different numerical limits, different notice requirements, or different rules on recording testimony by video.
+The rules governing depositions are not identical everywhere, and several limits commonly apply. Federal practice, for instance, generally presumes a limit of one day of seven hours for a single deposition and caps the number of depositions a side may take without permission, but state courts set their own limits, and those thresholds vary by jurisdiction. Some states impose different numerical limits, different notice requirements, or different rules on recording testimony by video. Public court resources, such as the [Utah State Courts self-help center](https://www.utcourts.gov/), outline how these rules apply within a particular system.
 
 Certain protections also apply. A deponent may generally decline to reveal privileged communications, such as those between an attorney and client, and a court may issue a protective order to limit questioning that is harassing or seeks irrelevant private information. Because these safeguards and limits are defined by each court's rules, the specifics should be confirmed against the jurisdiction where the case is pending.
 

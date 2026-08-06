@@ -57,7 +57,7 @@ Discovery is broad, but it is not unlimited, and the boundaries differ by jurisd
 - **Proportionality** — many rules direct that discovery be proportional to the needs of the case, weighing its importance against the burden of producing it.
 - **Protective orders** — a court may limit or condition discovery that is harassing or seeks sensitive private information.
 
-The specifics vary widely. States set their own numerical limits on interrogatories and depositions, their own deadlines, and their own procedures for resolving disputes. Court self-help resources, such as those published by state judiciaries, describe how discovery works in a particular system, and readers should confirm the rules of the relevant court.
+The specifics vary widely. States set their own numerical limits on interrogatories and depositions, their own deadlines, and their own procedures for resolving disputes. Court self-help resources, such as those published by [state judiciaries](https://selfhelp.courts.ca.gov/), describe how discovery works in a particular system, and readers should confirm the rules of the relevant court.
 
 ## Enforcing discovery and resolving disputes
 

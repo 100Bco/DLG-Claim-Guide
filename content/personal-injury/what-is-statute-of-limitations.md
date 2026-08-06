@@ -15,6 +15,8 @@ sources:
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=335.1"
   - name: "United States Courts"
     url: "https://www.uscourts.gov/"
+  - name: "National Conference of State Legislatures — Statutes of Limitation"
+    url: "https://www.ncsl.org/"
 outbound_link:
   url: "https://danglawgroup.com/statute-of-limitations-for-personal-injury-in-texas/"
   anchor: "how this filing deadline works under Texas law"
@@ -43,7 +45,7 @@ Whether and how the discovery rule applies depends on the jurisdiction and the t
 
 ## How deadlines differ by state and claim type
 
-The length of a limitations period varies widely. Personal injury claims in many states fall in a range of roughly two to several years, but the precise figure is set by each state's statutes. For example, [California's Code of Civil Procedure section 335.1](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=335.1) sets a two-year period for most personal injury actions. That two-year figure is California's rule; other states set different periods, and no single number applies nationwide.
+The length of a limitations period varies widely. Personal injury claims in many states fall in a range of roughly two to several years, but the precise figure is set by each state's statutes; legislative-tracking resources such as the [National Conference of State Legislatures](https://www.ncsl.org/) catalog how these periods differ from state to state. For example, [California's Code of Civil Procedure section 335.1](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=335.1) sets a two-year period for most personal injury actions. That two-year figure is California's rule; other states set different periods, and no single number applies nationwide.
 
 Different claim types carry different deadlines within the same state as well. Contract claims, property damage claims, medical malpractice claims, and claims against government entities frequently have their own periods, some shorter and some longer. Readers comparing systems may look at [how this filing deadline works under Texas law](https://danglawgroup.com/statute-of-limitations-for-personal-injury-in-texas/) as one state-specific example.
 

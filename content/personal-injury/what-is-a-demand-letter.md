@@ -15,6 +15,8 @@ sources:
     url: "https://www.americanbar.org/groups/public_education/"
   - name: "California Courts — Self-Help Center"
     url: "https://selfhelp.courts.ca.gov/"
+  - name: "National Association of Insurance Commissioners (NAIC)"
+    url: "https://content.naic.org/"
 outbound_link:
   url: "https://danglawgroup.com/guide-to-negotiating-with-insurance-companies-in-texas/"
   anchor: "how demand letters function in Texas injury claims"
@@ -54,7 +56,7 @@ The letter can also carry practical weight later. It documents that a claim was 
 
 In the insurance context, demand letters sometimes take particular forms that carry added significance. A policy-limit demand asks an insurer to pay the full limits of the responsible party's coverage to resolve the claim. A time-limited demand sets a deadline by which the demand must be accepted before it is withdrawn.
 
-These formats can matter beyond the immediate negotiation. In many jurisdictions, an insurer that unreasonably rejects a reasonable settlement demand within policy limits may expose itself to additional liability if a later judgment exceeds those limits, under legal theories addressing an insurer's duty to handle claims in good faith. Whether and how such exposure arises depends heavily on state law and on the specific facts, so these principles vary by jurisdiction.
+These formats can matter beyond the immediate negotiation. In many jurisdictions, an insurer that unreasonably rejects a reasonable settlement demand within policy limits may expose itself to additional liability if a later judgment exceeds those limits, under legal theories addressing an insurer's duty to handle claims in good faith — a subject also reflected in the model claims-handling standards coordinated through the [National Association of Insurance Commissioners](https://content.naic.org/). Whether and how such exposure arises depends heavily on state law and on the specific facts, so these principles vary by jurisdiction.
 
 Because of these potential consequences, demand letters of this kind are generally drafted with care, and the surrounding communications are often documented. Common features include:
 

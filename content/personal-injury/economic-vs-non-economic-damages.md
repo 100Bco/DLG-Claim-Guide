@@ -15,6 +15,8 @@ sources:
     url: "https://www.americanbar.org/groups/public_education/"
   - name: "California Civil Code § 1431.2 (California Legislature)"
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1431.2"
+  - name: "National Conference of State Legislatures — Damage Awards / Caps"
+    url: "https://www.ncsl.org/"
 outbound_link:
   url: "https://danglawgroup.com/damage-caps-in-texas-law/"
   anchor: "how Texas caps certain damages"
@@ -52,7 +54,7 @@ Because there is no bill for these losses, they are inherently harder to quantif
 
 ## Limits, caps, and variation by state
 
-How non-economic damages are treated differs significantly by jurisdiction, and this is where state variation is most pronounced. Some states impose statutory caps that limit the amount of non-economic damages a plaintiff may recover, often in particular categories such as medical malpractice, while other states impose no such caps or have had them struck down under their constitutions. Whether a cap applies, and to which claims, is determined by each state's law.
+How non-economic damages are treated differs significantly by jurisdiction, and this is where state variation is most pronounced. Some states impose statutory caps that limit the amount of non-economic damages a plaintiff may recover, often in particular categories such as medical malpractice — the [National Conference of State Legislatures](https://www.ncsl.org/) tracks how these caps differ across the states — while other states impose no such caps or have had them struck down under their constitutions. Whether a cap applies, and to which claims, is determined by each state's law.
 
 States also differ in how a plaintiff's own fault interacts with damages. Under comparative fault rules, an award of both economic and non-economic damages may be reduced by the plaintiff's percentage of responsibility, and the mechanics of that reduction vary. Readers comparing systems may consider [how Texas caps certain damages](https://danglawgroup.com/damage-caps-in-texas-law/) as one state's framework. Because these rules are jurisdiction-specific, the general categories described here should not be read as a uniform national standard.
 
