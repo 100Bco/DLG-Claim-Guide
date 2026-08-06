@@ -17,6 +17,8 @@ sources:
     url: "https://www.law.cornell.edu/wex/proximate_cause"
   - name: "Restatement (Second) of Torts"
     url: ""
+  - name: "Palsgraf v. Long Island Railroad Co., 248 N.Y. 339 (1928) (landmark negligence decision)"
+    url: ""
 outbound_link:
   url: ""
   anchor: ""
@@ -51,9 +53,11 @@ The first question is whether the defendant owed the plaintiff a [duty of care](
 
 Breach asks whether the defendant's conduct fell below the required standard. This frequently turns on the facts: what the defendant did, what a reasonable person would have done, and what risks were foreseeable. In some situations, a violation of a safety statute can serve as evidence of breach, a concept sometimes called negligence per se, though its application varies by jurisdiction.
 
+A classic illustration of how duty turns on foreseeability is **Palsgraf v. Long Island Railroad Co.**, a 1928 New York decision. Railroad employees helping a passenger board a moving train dislodged a package that, unknown to them, contained fireworks; the resulting explosion was said to have caused scales at the far end of the platform to fall and injure a waiting passenger. Writing for the court, Judge Benjamin Cardozo concluded that the railroad owed no duty to a plaintiff whose injury was not a reasonably foreseeable consequence of its conduct, famously observing that negligence "in the air" is not enough. The case remains a standard teaching example of how duty and foreseeability mark the boundaries of a negligence claim, though later courts have applied and debated its reasoning in different ways.
+
 ## Causation, defenses, and variation by state
 
-Causation links the breach to the harm and typically has two parts. Actual cause asks whether the injury would have occurred but for the defendant's conduct. Proximate cause asks whether the harm was a sufficiently foreseeable result of that conduct, rather than a remote or freakish consequence. Both are generally required, and proximate cause in particular can be a contested, fact-specific issue.
+Causation links the breach to the harm and typically has two parts. Actual cause asks whether the injury would have occurred but for the defendant's conduct. [Proximate cause](https://www.law.cornell.edu/wex/proximate_cause) asks whether the harm was a sufficiently foreseeable result of that conduct, rather than a remote or freakish consequence. Both are generally required, and proximate cause in particular can be a contested, fact-specific issue.
 
 Negligence claims are also subject to defenses and limits that vary by state. A plaintiff's own carelessness may reduce or bar recovery under comparative or contributory fault rules, which differ substantially by jurisdiction. Some defendants may be shielded by doctrines such as assumption of risk or by statutory protections in particular contexts. Because the elements and defenses are shaped by each state's statutes and case law, the general description here should be read as a framework rather than a uniform rule.
 

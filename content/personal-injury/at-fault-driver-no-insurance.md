@@ -15,6 +15,8 @@ sources:
     url: "https://www.insurance.ca.gov/"
   - name: "Cornell Legal Information Institute — Subrogation"
     url: "https://www.law.cornell.edu/wex/subrogation"
+  - name: "Insurance Information Institute — Facts + Statistics: Uninsured motorists"
+    url: "https://www.iii.org/fact-statistic/facts-statistics-uninsured-motorists"
 outbound_link:
   url: "https://danglawgroup.com/what-to-do-if-you-get-hit-by-an-uninsured-driver-in-austin/"
   anchor: "how Texas handles claims against uninsured drivers"
@@ -27,6 +29,8 @@ updated: ""
 ## The problem of an uninsured responsible party
 
 When someone is injured and another party is at fault, compensation often comes from that party's liability insurance. If the responsible party has no insurance, that usual source of payment is missing, which can complicate recovery. This situation arises in various contexts, and it raises a practical question: where, if anywhere, can compensation come from.
+
+Uninsured drivers are not a rare problem. Drawing on Insurance Research Council data, the [Insurance Information Institute](https://www.iii.org/fact-statistic/facts-statistics-uninsured-motorists) has reported that roughly one in seven drivers nationwide was uninsured in 2023, with the rate varying widely by state — from about 5.7 percent of drivers in Maine to more than 28 percent in Mississippi, according to that research. Those are national and state estimates rather than a rule for any individual case, but they show why a lack of coverage on the at-fault side is a common concern.
 
 Liability insurance matters because it provides a funded, reachable source of payment. An individual without insurance may have limited assets, and even a valid legal claim is only as useful as the ability to actually collect on it. For this reason, the absence of insurance changes the analysis from whether a claim exists to whether and how it can be satisfied.
 
