@@ -15,6 +15,8 @@ sources:
     url: "https://www.law.cornell.edu/wex/subrogation"
   - name: "California Civil Code § 3045.1 — Hospital Lien Act (California Legislature)"
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3045.1"
+  - name: "Centers for Medicare & Medicaid Services — Medicare Secondary Payer recovery"
+    url: "https://www.cms.gov/"
 outbound_link:
   url: "https://danglawgroup.com/how-to-calculate-the-value-of-a-compensation-in-texas-without-failing/"
   anchor: "how compensation amounts are calculated in Texas"
@@ -38,7 +40,7 @@ Several different arrangements are described as medical liens, and they arise in
 
 - **Hospital or provider liens** — created under state statutes that let a hospital or provider assert a lien for the reasonable value of care given to an injured person.
 - **Health insurer claims** — a health plan that paid for treatment may seek reimbursement from the recovery, often through a related right called subrogation.
-- **Government program claims** — public programs such as Medicare or Medicaid generally have rights to be reimbursed for injury-related care, subject to federal and state rules.
+- **Government program claims** — public programs such as [Medicare or Medicaid](https://www.cms.gov/) generally have rights to be reimbursed for injury-related care, subject to federal and state rules.
 - **Letters of protection** — an agreement in which a provider treats a person and agrees to wait for payment out of a future recovery, rather than a statutory lien.
 
 Each type has its own basis and its own requirements, and more than one may apply in a single case.

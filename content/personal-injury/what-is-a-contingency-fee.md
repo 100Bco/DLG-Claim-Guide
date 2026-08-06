@@ -28,7 +28,7 @@ updated: ""
 
 A contingency fee is a payment arrangement in which an attorney is paid only if the client obtains a recovery, typically through a settlement or a favorable judgment. Instead of billing by the hour, the attorney generally receives an agreed percentage of the amount recovered. If the case does not succeed, the client usually owes no attorney fee under this structure.
 
-This model is common in personal injury and certain other civil claims. It allows a person to pursue a claim without paying legal fees up front, shifting much of the financial risk of an unsuccessful case to the attorney. Because the attorney's payment is tied to the result, the arrangement is often described as aligning the attorney's interest with the client's in obtaining a recovery.
+This model is common in personal injury and certain other civil claims. Public court self-help centers, such as [California's](https://selfhelp.courts.ca.gov/), describe contingency arrangements in plain terms for the public. It allows a person to pursue a claim without paying legal fees up front, shifting much of the financial risk of an unsuccessful case to the attorney. Because the attorney's payment is tied to the result, the arrangement is often described as aligning the attorney's interest with the client's in obtaining a recovery.
 
 The percentage and terms are set by a written agreement. Professional conduct rules, such as those modeled on the [American Bar Association's Rule 1.5](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_5_fees/), generally require that a contingency fee be reasonable and that the arrangement be put in writing, signed by the client, and explain how the fee is calculated.
 

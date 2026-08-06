@@ -15,6 +15,8 @@ sources:
     url: "https://selfhelp.courts.ca.gov/"
   - name: "American Bar Association — Public Education"
     url: "https://www.americanbar.org/groups/public_education/"
+  - name: "National Conference of State Legislatures — Medical Liability / Damage Awards"
+    url: "https://www.ncsl.org/"
 outbound_link:
   url: ""
   anchor: ""
@@ -49,7 +51,7 @@ Because these considerations are weighed rather than calculated, estimates from 
 
 ## Limits and variation by state
 
-How non-economic damages like pain and suffering are handled differs by jurisdiction, and this is a significant source of variation. Some states impose statutory caps that limit the amount recoverable for non-economic damages, frequently in specific categories such as medical malpractice, while other states impose no cap or have found caps to conflict with their constitutions. Whether a limit applies depends entirely on the state and the type of claim.
+How non-economic damages like pain and suffering are handled differs by jurisdiction, and this is a significant source of variation. Some states impose statutory caps that limit the amount recoverable for non-economic damages, frequently in specific categories such as medical malpractice — the [National Conference of State Legislatures](https://www.ncsl.org/) tracks how these medical-liability limits differ from state to state — while other states impose no cap or have found such caps to conflict with their state constitutions. Whether a limit applies depends entirely on the state and the type of claim.
 
 States also differ in procedural rules that can affect these awards, including how comparative fault reduces a recovery and how courts review awards thought to be excessive. Because of this patchwork, the general description here should not be treated as a uniform national rule, and the governing law of the relevant jurisdiction controls.
 

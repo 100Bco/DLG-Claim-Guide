@@ -18,6 +18,8 @@ sources:
     url: "https://www.uscourts.gov/"
   - name: "American Bar Association — Public Education"
     url: "https://www.americanbar.org/groups/public_education/"
+  - name: "U.S. Bureau of Justice Statistics — Court case processing"
+    url: "https://bjs.ojp.gov/topics/courts/case-processing"
 outbound_link:
   url: "https://danglawgroup.com/what-to-expect-from-an-austin-car-accident-trial/"
   anchor: "how the litigation process unfolds under Texas law"
@@ -52,7 +54,7 @@ Discovery is also frequently accompanied by motion practice — formal requests 
 
 ## Negotiation, mediation, and settlement
 
-Because trials are costly, time-consuming, and uncertain, the large majority of personal injury claims resolve through settlement — an agreement to end the dispute, typically with the defendant or an insurer paying a negotiated sum in exchange for a release of liability.
+Because trials are costly, time-consuming, and uncertain, the large majority of personal injury claims resolve through settlement rather than a verdict; studies by the U.S. [Bureau of Justice Statistics](https://bjs.ojp.gov/topics/courts/case-processing) have found that only a small share of tort cases are disposed of by a trial. A settlement is an agreement to end the dispute, typically with the defendant or an insurer paying a negotiated sum in exchange for a release of liability.
 
 Settlement discussions can occur at any point, sometimes before a lawsuit is even filed. Many courts also encourage or require alternative dispute resolution, such as mediation, in which a neutral third party helps the sides explore a voluntary agreement. Because the mediator has no power to impose a result, the parties retain control over whether to settle.
 
