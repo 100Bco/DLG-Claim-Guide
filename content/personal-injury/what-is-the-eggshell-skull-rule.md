@@ -18,6 +18,8 @@ sources:
     url: ""
   - name: "Vosburg v. Putney, 80 Wis. 523 (1891) (historical tort precedent)"
     url: ""
+  - name: "American Bar Association — Public Education"
+    url: "https://www.americanbar.org/groups/public_education/"
 outbound_link:
   url: ""
   anchor: ""
@@ -61,7 +63,7 @@ This is why medical evidence tends to be central in these cases. Courts and juri
 
 ## How the rule can vary by state
 
-Although the eggshell skull rule is widely accepted in principle, its application is a matter of state law and can differ across jurisdictions. States may vary in how they instruct juries on the rule, how they treat the aggravation of pre-existing conditions, and how far the principle extends to purely psychological or emotional injuries, which some states limit more tightly than physical ones. The rule also interacts with other doctrines, such as [proximate cause](https://www.law.cornell.edu/wex/proximate_cause), which addresses whether a particular harm is close enough to the wrongful act to support liability at all.
+Although the eggshell skull rule is widely accepted in principle — and general [public legal-education materials](https://www.americanbar.org/groups/public_education/) describe it as a settled feature of tort law — its application is a matter of state law and can differ across jurisdictions. States may vary in how they instruct juries on the rule, how they treat the aggravation of pre-existing conditions, and how far the principle extends to purely psychological or emotional injuries, which some states limit more tightly than physical ones. The rule also interacts with other doctrines, such as [proximate cause](https://www.law.cornell.edu/wex/proximate_cause), which addresses whether a particular harm is close enough to the wrongful act to support liability at all.
 
 The rule can further intersect with comparative fault, since a plaintiff's own share of responsibility for an accident may reduce recovery under a state's rules even where the eggshell skull principle governs the extent of the injury. Because these related doctrines and the precise jury instructions differ by state, the general description here should be confirmed against the law of the relevant jurisdiction.
 
