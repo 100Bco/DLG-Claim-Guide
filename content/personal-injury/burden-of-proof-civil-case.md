@@ -15,6 +15,8 @@ sources:
     url: "https://www.law.cornell.edu/wex/preponderance_of_the_evidence"
   - name: "Utah State Courts — Self-Help Resources"
     url: "https://www.utcourts.gov/"
+  - name: "NPR — Coverage of the O.J. Simpson civil trial (1997)"
+    url: "https://www.npr.org/1997/01/21/1029653/ina-jaffe-reports-on-the-final-few-days-of-o-j-simpsons-civil-trial"
 outbound_link:
   url: ""
   anchor: ""
@@ -68,5 +70,7 @@ How presumptions and inferences work, and their precise effect on the burden, is
 ## Why the standard matters to the outcome
 
 The burden of proof shapes how a case is argued and decided. Because the civil plaintiff need only show that a claim is more likely true than not, civil liability can attach even where the same conduct would not support a criminal conviction. This is one reason a defendant may be found not guilty in a criminal case yet still be held liable in a related civil case arising from the same events.
+
+A widely known illustration is the O.J. Simpson litigation of the 1990s. A criminal jury acquitted him of murder under the beyond-a-reasonable-doubt standard in 1995, yet in 1997 a civil jury applying the preponderance standard found him liable for the wrongful deaths of Nicole Brown Simpson and Ronald Goldman and [awarded the families $33.5 million](https://www.npr.org/1997/01/21/1029653/ina-jaffe-reports-on-the-final-few-days-of-o-j-simpsons-civil-trial). The contrast is often used to show how the same evidence can fall short of a criminal conviction while still supporting civil liability under a lower standard, though any given outcome depends on the specific facts and the law of the jurisdiction.
 
 Understanding who must prove what, and to what degree, clarifies why civil disputes so often turn on the weight and credibility of the evidence rather than on absolute certainty.

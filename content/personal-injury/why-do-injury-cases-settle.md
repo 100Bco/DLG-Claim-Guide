@@ -15,6 +15,8 @@ sources:
     url: "https://selfhelp.courts.ca.gov/"
   - name: "American Bar Association — Public Education"
     url: "https://www.americanbar.org/groups/public_education/"
+  - name: "U.S. Bureau of Justice Statistics — Court case processing"
+    url: "https://bjs.ojp.gov/topics/courts/case-processing"
 outbound_link:
   url: ""
   anchor: ""
@@ -29,6 +31,8 @@ updated: ""
 A [settlement](https://www.law.cornell.edu/wex/settlement) is a voluntary agreement that ends a dispute without a court deciding the outcome. In a personal injury context, it typically involves the defendant or an insurance company paying an agreed sum, and the plaintiff signing a release — a document giving up the right to sue further over the same incident.
 
 Settlement can occur at almost any stage. Some claims resolve before a lawsuit is filed, through direct negotiation with an insurer. Others settle after discovery, once both sides have seen the evidence, and some settle on the courthouse steps or even during trial. Court systems generally treat settlement as the expected outcome for civil disputes, and many actively encourage it.
+
+Available data reflect this pattern. In its studies of tort cases in state courts, the U.S. [Bureau of Justice Statistics](https://bjs.ojp.gov/topics/courts/case-processing) has reported that only a small share of tort cases — on the order of a few percent — are resolved by a trial, with the large majority ending through settlement, dismissal, or other non-trial dispositions. The exact figures depend on the jurisdiction and the period studied, but the broad picture is consistent: a courtroom verdict is the exception rather than the rule.
 
 ## Why parties choose to settle
 

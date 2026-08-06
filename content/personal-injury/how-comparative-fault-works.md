@@ -17,6 +17,8 @@ sources:
     url: "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.33.htm"
   - name: "Restatement (Third) of Torts: Apportionment of Liability"
     url: ""
+  - name: "Liebeck v. McDonald's Restaurants (1994) (Cornell Legal Information Institute)"
+    url: "https://www.law.cornell.edu/wex/Liebeck_v_McDonalds_Restaurants_1994"
 outbound_link:
   url: "https://danglawgroup.com/texas-comparative-fault-can-you-still-recover-damages-if-you-were-partially-at-fault/"
   anchor: "how Texas applies proportionate responsibility"
@@ -63,6 +65,8 @@ The choice of system can change the outcome of otherwise identical facts. A plai
 ## How fault is decided in practice
 
 In a contested case, the percentages are typically decided by the finder of fact after hearing the evidence. Attorneys present arguments about how responsibility should be allocated, and the jury or judge assigns the shares. Those percentages then flow through the applicable comparative or contributory rule to produce the final recoverable amount.
+
+A well-known illustration is the 1994 New Mexico coffee-burn case [*Liebeck v. McDonald's Restaurants*](https://www.law.cornell.edu/wex/Liebeck_v_McDonalds_Restaurants_1994), often remembered for its punitive award but also a clear example of comparative fault in action. The jury assigned the plaintiff 20 percent of the responsibility for the spill and the restaurant 80 percent, and it reduced her compensatory damages — reported at roughly $200,000 — to about $160,000 to reflect her share. The case shows how a percentage of plaintiff fault translates directly into a smaller recovery under a comparative system, though the precise effect depends on which version of the rule a given state has adopted.
 
 The analysis grows more complex when several parties are involved. When more than one defendant is at fault, a related question is how a shared judgment is collected — an issue governed by rules on joint and several liability. Under a joint-and-several approach, a plaintiff may in some circumstances recover the full amount from any one responsible defendant, who may then seek contribution from the others. Many states have modified this in favor of proportionate or several liability, under which each defendant generally pays only its assigned share. How comparative fault and these liability rules interact varies significantly by jurisdiction:
 
