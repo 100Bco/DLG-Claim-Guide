@@ -18,6 +18,8 @@ sources:
     url: "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.41.htm"
   - name: "Restatement (Second) of Torts § 908 (American Law Institute)"
     url: ""
+  - name: "National Center for State Courts — Civil Justice Research"
+    url: "https://www.ncsc.org/"
 outbound_link:
   url: ""
   anchor: ""
@@ -33,7 +35,7 @@ updated: ""
 
 Because they are tied to punishment and deterrence rather than to a plaintiff's measurable loss, punitive damages occupy an unusual place in a civil case. They are, in a sense, a civil counterpart to the criminal law's interest in penalizing wrongdoing, but they arise within a private lawsuit and are paid to the plaintiff. This blend of private compensation and public deterrence is part of why courts and legislatures treat them cautiously.
 
-Punitive damages are the exception, not the rule. Most personal injury cases involve ordinary negligence and result only in compensatory damages, if anything. Whether punitive damages are even available in a given case depends on the conduct involved and on the law of the state where the claim is brought.
+Punitive damages are the exception, not the rule. Most personal injury cases involve ordinary negligence and result only in compensatory damages, if anything. Research on civil litigation by court-focused organizations such as the [National Center for State Courts](https://www.ncsc.org/) has generally found that punitive damages are sought, and awarded, in only a small share of civil cases. Whether punitive damages are even available in a given case depends on the conduct involved and on the law of the state where the claim is brought.
 
 ## When punitive damages may be available
 

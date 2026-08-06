@@ -16,6 +16,8 @@ sources:
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=377.60"
   - name: "Centers for Disease Control and Prevention — Injury Center"
     url: "https://www.cdc.gov/injury/"
+  - name: "National Safety Council — Injury Facts"
+    url: "https://injuryfacts.nsc.org/"
   - name: "American Bar Association — Public Education"
     url: "https://www.americanbar.org/groups/public_education/"
 outbound_link:
@@ -33,7 +35,7 @@ A [wrongful death](https://www.law.cornell.edu/wex/wrongful_death) claim is a ci
 
 Wrongful death claims exist because, at common law, a personal injury claim generally did not survive the injured person's death. Legislatures responded by enacting wrongful death statutes, which create a right of action for specified survivors. As a result, wrongful death is largely a creature of statute, and its precise contours are defined by each state's law.
 
-Because these deaths frequently arise from preventable events — the Centers for Disease Control and Prevention tracks [unintentional injuries](https://www.cdc.gov/injury/) as a leading cause of death in the United States — wrongful death claims cover a wide range of circumstances. What unites them is the legal question of whether another party's wrongful act caused the death, and whether the person bringing the claim is among those the statute permits to sue.
+Because these deaths frequently arise from preventable events — the Centers for Disease Control and Prevention tracks [unintentional injuries](https://www.cdc.gov/injury/) as a leading cause of death in the United States, and nonprofit safety organizations such as the National Safety Council compile similar [injury and fatality data](https://injuryfacts.nsc.org/) — wrongful death claims cover a wide range of circumstances. What unites them is the legal question of whether another party's wrongful act caused the death, and whether the person bringing the claim is among those the statute permits to sue.
 
 ## Who can bring a wrongful death claim
 
