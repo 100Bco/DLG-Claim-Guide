@@ -20,6 +20,10 @@ sources:
     url: ""
   - name: "National Center for State Courts — Civil Justice Research"
     url: "https://www.ncsc.org/"
+  - name: "Liebeck v. McDonald's Restaurants (1994) (Cornell Legal Information Institute)"
+    url: "https://www.law.cornell.edu/wex/Liebeck_v_McDonalds_Restaurants_1994"
+  - name: "CNN — Georgia jury orders Monsanto parent to pay nearly $2.1 billion in Roundup lawsuit (2025)"
+    url: "https://www.cnn.com/2025/03/24/us/bayer-monsanto-to-pay-2-billion-roundup"
 outbound_link:
   url: ""
   anchor: ""
@@ -53,6 +57,8 @@ The exact labels and definitions differ from state to state, and some states des
 When punitive damages are allowed, the amount is not fixed by a simple formula. A jury or judge generally considers factors such as how reprehensible the defendant's conduct was, the relationship between the harm caused and the size of the award, and, in some cases, the defendant's financial condition, since an amount meant to deter must be meaningful relative to the defendant's resources.
 
 These awards are also subject to constitutional limits. In *State Farm Mutual Automobile Insurance Co. v. Campbell*, the United States Supreme Court held that grossly excessive punitive damages can violate the Due Process Clause, and it identified guideposts for reviewing them — including the degree of reprehensibility, the ratio between punitive and compensatory damages, and comparable civil penalties. The Court indicated that awards many times larger than the compensatory damages will rarely satisfy due process, though it declined to draw a bright line. These principles give courts a framework for reviewing and, where necessary, reducing punitive awards.
+
+A frequently discussed illustration is [*Liebeck v. McDonald's Restaurants*](https://www.law.cornell.edu/wex/Liebeck_v_McDonalds_Restaurants_1994), the 1994 New Mexico case in which a customer suffered severe burns from spilled coffee. The jury awarded roughly $200,000 in compensatory damages, reduced to reflect her own share of fault, and $2.7 million in punitive damages — a figure the jury tied to a short period of the company's coffee revenue — after hearing that the company had received many prior burn complaints. The trial judge later cut the punitive award to $480,000. More recent reporting reflects the same pattern of large punitive verdicts being scaled back on review: news outlets reported that a Georgia jury ordered Monsanto's parent company to pay [nearly $2.1 billion](https://www.cnn.com/2025/03/24/us/bayer-monsanto-to-pay-2-billion-roundup), most of it punitive, in a weedkiller case, with courts frequently reducing such awards afterward. These examples illustrate the recurring tension between a jury's deterrence judgment and the legal limits on excessive punishment, and they should be read as illustrations rather than as predictions for any particular case.
 
 ## Punitive damages versus compensatory damages
 

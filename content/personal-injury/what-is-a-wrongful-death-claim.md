@@ -20,6 +20,8 @@ sources:
     url: "https://injuryfacts.nsc.org/"
   - name: "American Bar Association — Public Education"
     url: "https://www.americanbar.org/groups/public_education/"
+  - name: "CNN — Jury awards $176M for wrongful deaths of two brothers struck by a driver (2026)"
+    url: "https://www.cnn.com/2026/06/05/us/grossman-wrongful-deaths-jury-awards"
 outbound_link:
   url: ""
   anchor: ""
@@ -76,3 +78,5 @@ Special rules add further variation. Claims involving a government defendant oft
 In general terms, a wrongful death case proceeds much like other civil claims: it begins with a complaint, moves through the exchange of evidence, and often resolves by settlement rather than trial. The claimant generally must establish that the defendant's wrongful conduct caused the death and prove the survivors' resulting losses, typically by a preponderance of the evidence — meaning the claim is more likely true than not.
 
 Because wrongful death claims combine emotionally significant circumstances with technical statutory requirements, the identity of the proper claimant, the categories of recoverable damages, and the applicable deadline are usually central questions from the outset. As with much of personal injury law, how a wrongful death claim unfolds depends on the facts and on the statutes of the jurisdiction where it is brought.
+
+Reported cases illustrate how substantial these claims can become when responsibility is clear. For example, news outlets reported that in 2026 a California jury awarded [$176 million](https://www.cnn.com/2026/06/05/us/grossman-wrongful-deaths-jury-awards) to the parents of two young brothers killed by a driver in a Los Angeles crosswalk. Such figures reflect the significant losses a wrongful death verdict can encompass, but they are exceptional; most claims resolve for far less, many settle before trial, and outcomes vary widely with the facts and the governing state's law.
