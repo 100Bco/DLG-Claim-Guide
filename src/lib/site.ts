@@ -11,7 +11,7 @@
  */
 export const SITE_URL: string = (
   (typeof process !== "undefined" && process.env && process.env.SITE_URL) ||
-  "https://theclaimsguide.com"
+  "https://www.accidentclaimvalue.com"
 ).replace(/\/$/, "");
 
 export const SITE = {
