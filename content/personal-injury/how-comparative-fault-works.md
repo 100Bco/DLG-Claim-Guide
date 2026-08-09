@@ -2,75 +2,82 @@
 title: "How does comparative fault work?"
 slug: "how-comparative-fault-works"
 topic: "personal-injury"
-short_answer: "Comparative fault is a rule for dividing responsibility when more than one party contributed to an injury, reducing a plaintiff's recovery by their share of the blame. States use several different versions — pure comparative, modified comparative, and, in a few places, contributory negligence — so the effect of a plaintiff's own fault varies significantly by jurisdiction."
-excerpt: "How courts divide responsibility between parties, and why the rules differ sharply from state to state."
+short_answer: "Comparative fault is a rule that reduces an injured person's compensation by their own share of responsibility for an accident. If a plaintiff is found 20 percent at fault, their award is generally reduced by 20 percent. States apply one of three systems — pure comparative fault, modified comparative fault, or contributory negligence — and the system determines whether a partially-at-fault person can recover anything at all."
+excerpt: "How comparative fault reduces injury compensation, the three systems states use, and why the same accident can produce different outcomes by state."
 related:
   - what-is-negligence
+  - burden-of-proof-civil-case
   - economic-vs-non-economic-damages
-  - what-happens-during-personal-injury-lawsuit
+  - how-pain-and-suffering-calculated
 sources:
   - name: "Cornell Legal Information Institute — Comparative Negligence"
     url: "https://www.law.cornell.edu/wex/comparative_negligence"
   - name: "Cornell Legal Information Institute — Contributory Negligence"
     url: "https://www.law.cornell.edu/wex/contributory_negligence"
-  - name: "Texas Civil Practice & Remedies Code, Chapter 33 (Texas Legislature)"
-    url: "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.33.htm"
-  - name: "Restatement (Third) of Torts: Apportionment of Liability"
-    url: ""
-  - name: "Liebeck v. McDonald's Restaurants (1994) (Cornell Legal Information Institute)"
-    url: "https://www.law.cornell.edu/wex/Liebeck_v_McDonalds_Restaurants_1994"
+  - name: "Texas Lawyer (Law.com) — $6.56M Wrongful Death Verdict Against Texas Bar Owners (Neira v. Kimbo's Saloon)"
+    url: "https://www.law.com/texaslawyer/2024/10/02/6-56m-wrongful-death-verdict-awarded-against-texas-bar-owners/"
+  - name: "Louisiana State Legislature — HB 431 (2025), effective January 1, 2026"
+    url: "https://legis.la.gov/legis/BillInfo.aspx?s=25RS&b=HB431"
 outbound_link:
   url: "https://danglawgroup.com/texas-comparative-fault-can-you-still-recover-damages-if-you-were-partially-at-fault/"
   anchor: "how Texas applies proportionate responsibility"
 author: "Editorial Team — The Claims Guide"
 published: true
-date: "2026-07-24"
+date: "2026-08-06"
 updated: ""
 ---
 
-## The basic idea of comparative fault
+## What comparative fault means
 
-Comparative fault, also called [comparative negligence](https://www.law.cornell.edu/wex/comparative_negligence), is a legal rule for situations where more than one person contributed to an injury. Rather than treating fault as all-or-nothing, it assigns each party a percentage of responsibility and adjusts the plaintiff's compensation accordingly. If a plaintiff is found partly at fault, the award is generally reduced by that percentage.
+Comparative fault, also called [comparative negligence](https://www.law.cornell.edu/wex/comparative_negligence), is a legal rule for dividing responsibility when more than one person contributed to an accident. Instead of treating fault as all-or-nothing, it assigns each party a percentage of the blame and adjusts compensation accordingly.
 
-The concept responds to a common reality: accidents often result from a combination of conduct. A finder of fact — the jury, or the judge in a bench trial — may conclude that a defendant was mostly responsible while the plaintiff bears some smaller share. Comparative fault provides a framework for translating those percentages into a dollar result.
+The mechanics are straightforward in principle. A fact-finder — a judge or jury — determines the total damages and the plaintiff's percentage of fault. The award is then reduced by that percentage. If total damages are calculated at a given amount and the plaintiff is found 30 percent responsible, the plaintiff generally recovers 70 percent of that amount.
 
-Importantly, there is no single national rule. Each state has adopted its own approach through statutes or court decisions, and the differences can determine whether a plaintiff recovers anything at all.
+The reason this rule exists is that real accidents are often not entirely one person's fault. Comparative fault allows a partially responsible person to recover something, rather than being barred from any recovery simply because they share part of the blame.
 
-## Pure comparative negligence
+## The three systems states use
 
-Under a pure comparative negligence system, a plaintiff may recover damages reduced by their own percentage of fault, no matter how large that percentage is. A plaintiff found mostly responsible could still recover the portion attributable to the defendant.
+Which rule applies depends entirely on the state. According to the Cornell Legal Information Institute, states fall into three broad categories.
 
-- **How it works** — a plaintiff who is 80 percent at fault could, in principle, still recover 20 percent of the damages.
-- **Where it appears** — a number of states follow this model, though the details are defined by each state's law.
+- **Pure comparative fault** — A plaintiff can recover damages no matter how much they are at fault, even up to 99 percent, with the award reduced by their fault percentage. Roughly a dozen states use this approach, such as California, New York, and Washington.
+- **Modified comparative fault** — A plaintiff can recover only if their fault stays below a set threshold. This is the most common approach, used by a majority of states.
+- **[Contributory negligence](https://www.law.cornell.edu/wex/contributory_negligence)** — A plaintiff who bears any fault at all, even one percent, is barred from recovering anything. Only a small number of jurisdictions still follow this strict rule, generally identified as Alabama, Maryland, North Carolina, Virginia, and the District of Columbia.
 
-## Modified comparative negligence
+## The two versions of modified comparative fault
 
-Most states use a modified comparative negligence system, which allows reduced recovery only up to a fault threshold. Above that threshold, the plaintiff recovers nothing. Two versions are common:
+Because modified comparative fault is the most common system, its internal split matters. States that use it apply one of two thresholds, and the difference turns on a single percentage point.
 
-- **50 percent bar** — a plaintiff may recover only if their fault is less than 50 percent; at 50 percent or more, recovery is barred.
-- **51 percent bar** — a plaintiff may recover only if their fault does not exceed 50 percent; once fault reaches 51 percent, recovery is barred.
+- **The 50 percent bar rule** — A plaintiff who is 50 percent or more at fault recovers nothing. To recover, the plaintiff must be 49 percent or less at fault.
+- **The 51 percent bar rule** — A plaintiff who is 51 percent or more at fault recovers nothing. Under this version, a plaintiff who is exactly 50 percent at fault can still recover.
 
-Texas, for example, uses a modified system in which a claimant may not recover if their percentage of responsibility is greater than 50 percent, under Chapter 33 of the Texas Civil Practice and Remedies Code. That figure is Texas's rule, set by statute, and other states set their thresholds differently. Readers comparing approaches may review [how Texas applies proportionate responsibility](https://danglawgroup.com/texas-comparative-fault-can-you-still-recover-damages-if-you-were-partially-at-fault/) as one worked example of a modified system.
+The practical consequence appears in a case where fault is split evenly. Under the 50 percent bar rule, a plaintiff found equally responsible recovers nothing. Under the 51 percent bar rule, that same plaintiff can still recover half of their damages. The 51 percent version is the more widely adopted of the two.
 
-## Contributory negligence: the strict minority rule
+## A worked example
 
-A small number of states follow the older doctrine of [contributory negligence](https://www.law.cornell.edu/wex/contributory_negligence), under which a plaintiff who bears any share of fault — even a very small one — may be barred from recovering at all. According to the Cornell Legal Information Institute, only a few jurisdictions still apply this rule, which is considerably harsher on plaintiffs than comparative systems.
+A simple example shows how much the system controls the outcome. Suppose a jury finds that a plaintiff suffered a fixed amount in total damages and assigns the plaintiff 40 percent of the fault for the accident.
 
-Because contributory negligence can eliminate recovery entirely, courts in those jurisdictions have sometimes developed exceptions, such as the "last clear chance" doctrine, which may allow recovery when the defendant had the final opportunity to avoid the harm. Whether such exceptions apply depends on the specific state's law.
+- In a pure comparative fault state, the plaintiff recovers 60 percent of the damages. The reduction reflects the plaintiff's share, but recovery is not barred.
+- In a modified comparative fault state under either the 50 or 51 percent rule, the plaintiff is below the threshold and also recovers 60 percent.
+- In a contributory negligence jurisdiction, the plaintiff recovers nothing, because they bear some fault.
 
-## Why the variation matters
+Now change one fact: the jury assigns the plaintiff 55 percent of the fault instead. In a pure comparative state the plaintiff still recovers 45 percent. In every modified comparative state the plaintiff now recovers nothing, because 55 percent exceeds both thresholds. The same injury, valued identically, produces three different results depending only on the state's rule and a shift in the fault percentage.
 
-The choice of system can change the outcome of otherwise identical facts. A plaintiff found 30 percent at fault might recover a reduced award in most states, recover a smaller reduced award in a pure comparative state at higher fault levels, or — in a contributory negligence jurisdiction — recover nothing. Because the governing rule is set by each state and can turn on a single percentage point, the same accident can be evaluated very differently depending on where the claim is brought.
+## Why the percentage is so heavily contested
 
-## How fault is decided in practice
+Because a fault percentage can move a plaintiff across a threshold, the number assigned is often the most fiercely disputed issue in a case.
 
-In a contested case, the percentages are typically decided by the finder of fact after hearing the evidence. Attorneys present arguments about how responsibility should be allocated, and the jury or judge assigns the shares. Those percentages then flow through the applicable comparative or contributory rule to produce the final recoverable amount.
+In a modified comparative fault state, the difference between 49 and 51 percent fault is not a small adjustment to the award — it is the difference between partial recovery and no recovery at all. This gives insurers and defendants a strong incentive to argue that the injured person bears a larger share of the blame. Pushing a plaintiff's fault above the bar eliminates the claim entirely rather than merely reducing it.
 
-A well-known illustration is the 1994 New Mexico coffee-burn case [*Liebeck v. McDonald's Restaurants*](https://www.law.cornell.edu/wex/Liebeck_v_McDonalds_Restaurants_1994), often remembered for its punitive award but also a clear example of comparative fault in action. The jury assigned the plaintiff 20 percent of the responsibility for the spill and the restaurant 80 percent, and it reduced her compensatory damages — reported at roughly $200,000 — to about $160,000 to reflect her share. The case shows how a percentage of plaintiff fault translates directly into a smaller recovery under a comparative system, though the precise effect depends on which version of the rule a given state has adopted.
+This dynamic is why evidence about how an accident happened — police reports, witness accounts, physical evidence, and expert testimony — carries so much weight. In a comparative fault system, that evidence does not only establish who was hurt; it establishes the percentages that determine whether recovery is possible.
 
-The analysis grows more complex when several parties are involved. When more than one defendant is at fault, a related question is how a shared judgment is collected — an issue governed by rules on joint and several liability. Under a joint-and-several approach, a plaintiff may in some circumstances recover the full amount from any one responsible defendant, who may then seek contribution from the others. Many states have modified this in favor of proportionate or several liability, under which each defendant generally pays only its assigned share. How comparative fault and these liability rules interact varies significantly by jurisdiction:
+A real case illustrates how juries put this into practice. In a San Angelo, Texas case decided in 2024, [Neira v. Kimbo's Saloon](https://www.law.com/texaslawyer/2024/10/02/6-56m-wrongful-death-verdict-awarded-against-texas-bar-owners/), a jury found a bar 60 percent responsible and an intoxicated driver 40 percent responsible for a pedestrian's death, and divided liability between them accordingly, as reported by Texas Lawyer. The verdict shows the mechanism at its core: rather than choosing a single wrongdoer, the jury assigned each party a share of the fault, and those percentages governed how the award was allocated. Texas itself uses a modified comparative fault system, one illustration of [how Texas applies proportionate responsibility](https://danglawgroup.com/texas-comparative-fault-can-you-still-recover-damages-if-you-were-partially-at-fault/).
 
-- **Allocation to absent parties** — some states let the finder of fact assign a percentage of fault to parties who are not defendants, which can affect what the plaintiff recovers.
-- **Effect of settlement** — when one defendant settles, the rules for crediting that settlement against the remaining defendants differ by state.
+## Limits and complications
 
-Because fault allocation is both fact-intensive and governed by state-specific rules — including how it combines with joint and several liability — general descriptions like the ones above illustrate the frameworks rather than predict how any particular dispute would be resolved. For that reason, the classification of a state's system — pure comparative, modified with a 50 or 51 percent bar, or contributory — is generally treated as a threshold question when a claim involving shared fault is evaluated, since it can determine whether recovery is reduced, barred, or unaffected. The controlling rule is always the one adopted by the jurisdiction where the claim is brought.
+Comparative fault rules are more nuanced than a single percentage suggests, and several complications commonly arise.
+
+- **Multiple defendants** — When several parties share fault, states differ on how the reduced award is divided among them, an issue governed by each state's rules on joint and several liability.
+- **Non-party fault** — Some states allow a jury to assign a share of fault to a person who is not part of the lawsuit, which can reduce what the named defendants owe.
+- **Changing law** — Some states have amended their comparative fault statutes in recent years, so the rule in a given state may differ from older summaries. Florida, for example, shifted from pure to modified comparative fault in 2023, and Louisiana moved from a pure comparative fault system toward a modified system with a 51 percent bar through [legislation](https://legis.la.gov/legis/BillInfo.aspx?s=25RS&b=HB431) that took effect on January 1, 2026. A summary written before those changes would now be out of date for those states.
+
+Because these rules are set by statute and vary considerably from state to state, the way comparative fault applies to any particular accident depends on the jurisdiction where the claim is brought and the specific facts involved.
