@@ -14,8 +14,10 @@ sources:
     url: "https://www.law.cornell.edu/wex/comparative_negligence"
   - name: "Cornell Legal Information Institute — Contributory Negligence"
     url: "https://www.law.cornell.edu/wex/contributory_negligence"
-  - name: "Texas Lawyer (Law.com) — $6.56M Wrongful Death Verdict Against Texas Bar Owners (Neira v. Kimbo's Saloon)"
-    url: "https://www.law.com/texaslawyer/2024/10/02/6-56m-wrongful-death-verdict-awarded-against-texas-bar-owners/"
+  - name: "Justia — Comparative & Contributory Negligence Laws: 50-State Survey"
+    url: "https://www.justia.com/injury/negligence-theory/comparative-contributory-negligence-laws-50-state-survey/"
+  - name: "BusinessWire — Jury Returns $6.56 Million Verdict Against Bar, Driver (Neira v. Kimbo's Saloon)"
+    url: "https://www.businesswire.com/news/home/20240927205710/en/Jury-Returns-%246.56-Million-Verdict-Against-Bar-Driver-for-Death-of-Pedestrian"
   - name: "Louisiana State Legislature — HB 431 (2025), effective January 1, 2026"
     url: "https://legis.la.gov/legis/BillInfo.aspx?s=25RS&b=HB431"
 outbound_link:
@@ -37,7 +39,7 @@ The reason this rule exists is that real accidents are often not entirely one pe
 
 ## The three systems states use
 
-Which rule applies depends entirely on the state. According to the Cornell Legal Information Institute, states fall into three broad categories.
+Which rule applies depends entirely on the state. According to the Cornell Legal Information Institute and [Justia's 50-state survey](https://www.justia.com/injury/negligence-theory/comparative-contributory-negligence-laws-50-state-survey/), states fall into three broad categories.
 
 - **Pure comparative fault** — A plaintiff can recover damages no matter how much they are at fault, even up to 99 percent, with the award reduced by their fault percentage. Roughly a dozen states use this approach, such as California, New York, and Washington.
 - **Modified comparative fault** — A plaintiff can recover only if their fault stays below a set threshold. This is the most common approach, used by a majority of states.
@@ -70,7 +72,7 @@ In a modified comparative fault state, the difference between 49 and 51 percent 
 
 This dynamic is why evidence about how an accident happened — police reports, witness accounts, physical evidence, and expert testimony — carries so much weight. In a comparative fault system, that evidence does not only establish who was hurt; it establishes the percentages that determine whether recovery is possible.
 
-A real case illustrates how juries put this into practice. In a San Angelo, Texas case decided in 2024, [Neira v. Kimbo's Saloon](https://www.law.com/texaslawyer/2024/10/02/6-56m-wrongful-death-verdict-awarded-against-texas-bar-owners/), a jury found a bar 60 percent responsible and an intoxicated driver 40 percent responsible for a pedestrian's death, and divided liability between them accordingly, as reported by Texas Lawyer. The verdict shows the mechanism at its core: rather than choosing a single wrongdoer, the jury assigned each party a share of the fault, and those percentages governed how the award was allocated. Texas itself uses a modified comparative fault system, one illustration of [how Texas applies proportionate responsibility](https://danglawgroup.com/texas-comparative-fault-can-you-still-recover-damages-if-you-were-partially-at-fault/).
+A real case illustrates how juries put this into practice. In a San Angelo, Texas case decided in 2024, [Neira v. Kimbo's Saloon](https://www.businesswire.com/news/home/20240927205710/en/Jury-Returns-%246.56-Million-Verdict-Against-Bar-Driver-for-Death-of-Pedestrian), a jury found a bar 60 percent responsible and an intoxicated driver 40 percent responsible for a pedestrian's death, and divided liability between them accordingly, according to a statement distributed through BusinessWire. The verdict shows the mechanism at its core: rather than choosing a single wrongdoer, the jury assigned each party a share of the fault, and those percentages governed how the award was allocated. Texas itself uses a modified comparative fault system, one illustration of [how Texas applies proportionate responsibility](https://danglawgroup.com/texas-comparative-fault-can-you-still-recover-damages-if-you-were-partially-at-fault/).
 
 ## Limits and complications
 
