@@ -23,8 +23,8 @@ sources:
   - name: "CNN — Jury awards $176M for wrongful deaths of two brothers struck by a driver (2026)"
     url: "https://www.cnn.com/2026/06/05/us/grossman-wrongful-deaths-jury-awards"
 outbound_link:
-  url: ""
-  anchor: ""
+  url: "https://danglawgroup.com/blog/fatal-car-accidents-in-texas-pursuing-a-wrongful-death-claim/"
+  anchor: "how one state addresses wrongful death claims after a fatal crash"
 author: "Editorial Team — The Claims Guide"
 published: true
 date: "2026-08-06"
@@ -71,7 +71,7 @@ Many states allow both a wrongful death claim and a survival action to proceed f
 
 Wrongful death is one of the most state-specific areas of personal injury law. States differ in who may sue, what damages are recoverable, whether caps apply, how any award is divided among survivors, and whether punitive damages are available. The deadline to file — the statute of limitations — is also set by each state and is frequently measured from the date of death, which can differ from the deadline that would have applied to an ordinary injury claim.
 
-Special rules add further variation. Claims involving a government defendant often require a short formal notice under a tort claims act, and certain contexts, such as medical or product-related deaths, may carry their own procedures. Because of this variation, the general framework described here should be confirmed against the statutes of the relevant state.
+Special rules add further variation. Claims involving a government defendant often require a short formal notice under a tort claims act, and certain contexts, such as medical or product-related deaths, may carry their own procedures. Because of this variation, the general framework described here should be confirmed against the statutes of the relevant state — for example, [how one state addresses wrongful death claims after a fatal crash](https://danglawgroup.com/blog/fatal-car-accidents-in-texas-pursuing-a-wrongful-death-claim/).
 
 ## What typically happens in a wrongful death case
 
