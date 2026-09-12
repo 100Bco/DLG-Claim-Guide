@@ -17,6 +17,12 @@ export function render(url: string): string {
 // Re-export the data helpers the prerender script needs, so everything runs
 // through Vite's module graph (import.meta.glob, path aliases, etc.).
 export { getSeoForPath, getStaticRoutes } from "./lib/seo";
-export { getAllArticles, getArticlesByTopic, markdownToPlainText } from "./lib/content";
-export { TOPICS } from "./types";
+export {
+  getAllArticles,
+  getArticlesByTopic,
+  getArticlesByCluster,
+  getClustersForTopic,
+  markdownToPlainText,
+} from "./lib/content";
+export { TOPICS, CLUSTERS } from "./types";
 export { SITE, absoluteUrl } from "./lib/site";

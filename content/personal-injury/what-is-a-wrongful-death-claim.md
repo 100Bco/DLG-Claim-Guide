@@ -2,6 +2,7 @@
 title: "What is a wrongful death claim?"
 slug: "what-is-a-wrongful-death-claim"
 topic: "personal-injury"
+cluster: "wrongful-death"
 short_answer: "A wrongful death claim is a civil lawsuit brought when a person dies because of another party's negligent, reckless, or intentional act. It is filed by the deceased person's surviving family members or the estate, and it seeks compensation for the survivors' losses rather than punishment of a crime. Who may sue, what damages are available, and the filing deadline all vary by state."
 excerpt: "How wrongful death claims let a deceased person's survivors seek compensation, and how the rules differ by state."
 related:
