@@ -19,8 +19,10 @@ const {
   getStaticRoutes,
   getSeoForPath,
   getAllArticles,
+  getArticlesByCluster,
   markdownToPlainText,
   TOPICS,
+  CLUSTERS,
   SITE,
   absoluteUrl,
 } = await import(ssrEntry);
@@ -141,11 +143,20 @@ const catalog = {
     description: t.description,
     url: absoluteUrl(`/topic/${t.id}`, BASE_URL),
     questionCount: articles.filter((a) => a.data.topic === t.id).length,
+    clusters: CLUSTERS.filter((c) => c.topic === t.id).map((c) => ({
+      id: c.id,
+      title: c.title,
+      description: c.description,
+      url: absoluteUrl(`/topic/${t.id}/${c.id}`, BASE_URL),
+      pillarUrl: c.pillar ? absoluteUrl(`/${c.pillar}`, BASE_URL) : undefined,
+      questionCount: getArticlesByCluster(c.id).length,
+    })),
   })),
   articles: articles.map((a) => ({
     title: a.data.title,
     slug: a.data.slug,
     topic: a.data.topic,
+    cluster: a.data.cluster,
     url: absoluteUrl(`/${a.data.slug}`, BASE_URL),
     json: absoluteUrl(`/${a.data.slug}.json`, BASE_URL),
     short_answer: a.data.short_answer,
@@ -175,6 +186,9 @@ llms += `Base URL: ${BASE_URL}\nFull machine-readable index: ${absoluteUrl("/ind
 llms += `## Topics\n\n`;
 for (const t of TOPICS) {
   llms += `- [${t.title}](${absoluteUrl(`/topic/${t.id}`, BASE_URL)}): ${t.description}\n`;
+  for (const c of CLUSTERS.filter((c) => c.topic === t.id)) {
+    llms += `  - [${c.title}](${absoluteUrl(`/topic/${t.id}/${c.id}`, BASE_URL)}): ${c.description}\n`;
+  }
 }
 llms += `\n## Questions\n\n`;
 for (const a of articles) {

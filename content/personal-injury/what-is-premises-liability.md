@@ -2,6 +2,7 @@
 title: "What is premises liability?"
 slug: "what-is-premises-liability"
 topic: "personal-injury"
+cluster: "slip-and-fall"
 short_answer: "Premises liability is the area of personal injury law that holds a property owner or occupier responsible when unsafe conditions on their property cause someone harm — the legal basis for many slip-and-fall and similar claims. It generally requires showing that the owner failed to use reasonable care to keep the property safe, or to warn of a known hazard, and that this failure caused the injury. How much a property owner owes, and to whom, varies by state."
 excerpt: "How property owners can be held responsible for injuries caused by unsafe conditions, the elements of a claim, and how the rules differ by state."
 related:

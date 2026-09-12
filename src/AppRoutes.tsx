@@ -2,6 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import Layout from "./components/Layout";
 import Home from "./components/Home";
 import TopicPage from "./components/TopicPage";
+import ClusterPage from "./components/ClusterPage";
 import ArticlePage from "./components/ArticlePage";
 import SearchPage from "./components/SearchPage";
 import NotFound from "./components/NotFound";
@@ -17,6 +18,7 @@ export default function AppRoutes() {
         <Route index element={<Home />} />
         <Route path="questions" element={<SearchPage />} />
         <Route path="topic/:topicId" element={<TopicPage />} />
+        <Route path="topic/:topicId/:clusterId" element={<ClusterPage />} />
         <Route path=":slug" element={<ArticlePage />} />
         <Route path="*" element={<NotFound />} />
       </Route>

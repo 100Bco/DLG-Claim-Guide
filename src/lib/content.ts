@@ -1,4 +1,4 @@
-import { Article, ArticleFrontmatter } from "../types";
+import { Article, ArticleFrontmatter, CLUSTERS } from "../types";
 import { parse } from "yaml";
 
 export function parseMarkdown(rawContent: string): Article {
@@ -40,6 +40,32 @@ export function getArticleBySlug(slug: string): Article | undefined {
 
 export function getArticlesByTopic(topicId: string): Article[] {
   return ALL_ARTICLES.filter((article) => article.data.topic === topicId);
+}
+
+/** Clusters defined under a topic, in declaration order. */
+export function getClustersForTopic(topicId: string) {
+  return CLUSTERS.filter((c) => c.topic === topicId);
+}
+
+/** Articles assigned to a given cluster. */
+export function getArticlesByCluster(clusterId: string): Article[] {
+  return ALL_ARTICLES.filter((article) => article.data.cluster === clusterId);
+}
+
+/**
+ * Group a topic's articles by cluster. Returns the ordered clusters that have
+ * at least one article, plus any remaining articles that belong to no cluster
+ * (the topic's general/basics section).
+ */
+export function getTopicGroups(topicId: string) {
+  const articles = getArticlesByTopic(topicId);
+  const clusters = getClustersForTopic(topicId);
+  const clusterIds = new Set(clusters.map((c) => c.id));
+  const groups = clusters
+    .map((cluster) => ({ cluster, articles: articles.filter((a) => a.data.cluster === cluster.id) }))
+    .filter((g) => g.articles.length > 0);
+  const ungrouped = articles.filter((a) => !a.data.cluster || !clusterIds.has(a.data.cluster));
+  return { groups, ungrouped };
 }
 
 /**

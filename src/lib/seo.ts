@@ -1,5 +1,11 @@
-import { TOPICS } from "../types";
-import { getAllArticles, getArticleBySlug, getArticlesByTopic, markdownToPlainText } from "./content";
+import { TOPICS, CLUSTERS } from "../types";
+import {
+  getAllArticles,
+  getArticleBySlug,
+  getArticlesByTopic,
+  getArticlesByCluster,
+  markdownToPlainText,
+} from "./content";
 import { SITE, absoluteUrl } from "./site";
 
 export interface SeoData {
@@ -126,6 +132,45 @@ export function getSeoForPath(pathname: string, baseUrl: string = SITE.url): Seo
     }
   }
 
+  // Cluster pages: /topic/:topicId/:clusterId
+  const clusterMatch = path.match(/^\/topic\/([^/]+)\/([^/]+)$/);
+  if (clusterMatch) {
+    const topic = TOPICS.find((t) => t.id === clusterMatch[1]);
+    const cluster = CLUSTERS.find((c) => c.id === clusterMatch[2] && c.topic === clusterMatch[1]);
+    if (topic && cluster) {
+      const articles = getArticlesByCluster(cluster.id);
+      return {
+        title: `${cluster.title} — ${topic.title} — ${SITE.name}`,
+        description: clamp(cluster.description),
+        canonical: absoluteUrl(`/topic/${topic.id}/${cluster.id}`, baseUrl),
+        ogType: "website",
+        jsonLd: [
+          breadcrumb(
+            [
+              { name: "Home", path: "/" },
+              { name: topic.title, path: `/topic/${topic.id}` },
+              { name: cluster.title, path: `/topic/${topic.id}/${cluster.id}` },
+            ],
+            baseUrl
+          ),
+          {
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            name: `${cluster.title} — ${topic.title}`,
+            description: cluster.description,
+            url: absoluteUrl(`/topic/${topic.id}/${cluster.id}`, baseUrl),
+            hasPart: articles.map((a) => ({
+              "@type": "Question",
+              name: a.data.title,
+              url: absoluteUrl(`/${a.data.slug}`, baseUrl),
+            })),
+          },
+        ],
+        noindex: articles.length === 0,
+      };
+    }
+  }
+
   // Article pages: /:slug
   const slugMatch = path.match(/^\/([^/]+)$/);
   if (slugMatch) {
@@ -136,6 +181,8 @@ export function getSeoForPath(pathname: string, baseUrl: string = SITE.url): Seo
       const description = clamp(data.short_answer || data.excerpt || markdownToPlainText(content));
       const crumbs = [{ name: "Home", path: "/" }];
       if (topic) crumbs.push({ name: topic.title, path: `/topic/${topic.id}` });
+      const cluster = data.cluster ? CLUSTERS.find((c) => c.id === data.cluster && c.topic === data.topic) : undefined;
+      if (topic && cluster) crumbs.push({ name: cluster.title, path: `/topic/${topic.id}/${cluster.id}` });
       crumbs.push({ name: data.title, path: `/${data.slug}` });
 
       const jsonLd: Record<string, unknown>[] = [
@@ -196,6 +243,7 @@ export function getSeoForPath(pathname: string, baseUrl: string = SITE.url): Seo
 export function getStaticRoutes(): string[] {
   const routes = ["/", "/questions"];
   for (const topic of TOPICS) routes.push(`/topic/${topic.id}`);
+  for (const cluster of CLUSTERS) routes.push(`/topic/${cluster.topic}/${cluster.id}`);
   for (const article of getAllArticles()) routes.push(`/${article.data.slug}`);
   return routes;
 }
