@@ -2,7 +2,7 @@
 title: "What makes a truck accident claim different?"
 slug: "truck-accident-claims"
 topic: "personal-injury"
-cluster: "truck-accidents"
+clusters: ["truck-accidents"]
 short_answer: "A truck accident claim is a personal injury claim arising from a crash involving a commercial truck, and it differs from an ordinary car accident claim in several ways: commercial trucks are governed by federal safety regulations, more than one party may be responsible, and the potential harm and available insurance are usually larger. Like other injury claims, it generally requires proving negligence, and the details vary by state and by federal rule."
 excerpt: "Why commercial truck accident claims differ from ordinary car crashes — federal regulations, multiple responsible parties, and larger stakes."
 related:

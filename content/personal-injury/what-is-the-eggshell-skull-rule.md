@@ -2,6 +2,7 @@
 title: "What is the eggshell skull rule?"
 slug: "what-is-the-eggshell-skull-rule"
 topic: "personal-injury"
+clusters: ["car-accidents", "truck-accidents", "slip-and-fall"]
 short_answer: "The eggshell skull rule is a principle of personal injury law holding that a defendant who negligently injures another person is generally responsible for the full extent of the harm, even if the victim's pre-existing condition or unusual fragility made the injury far worse than expected. In short, a wrongdoer takes the victim as they find them. The rule affects the amount of damages rather than whether the defendant is at fault, and how it is applied can vary by state."
 excerpt: "How the 'take your victim as you find them' rule holds a defendant responsible for unexpectedly severe injuries."
 related:

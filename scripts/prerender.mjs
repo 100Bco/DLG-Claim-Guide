@@ -156,7 +156,7 @@ const catalog = {
     title: a.data.title,
     slug: a.data.slug,
     topic: a.data.topic,
-    cluster: a.data.cluster,
+    clusters: a.data.clusters,
     url: absoluteUrl(`/${a.data.slug}`, BASE_URL),
     json: absoluteUrl(`/${a.data.slug}.json`, BASE_URL),
     short_answer: a.data.short_answer,

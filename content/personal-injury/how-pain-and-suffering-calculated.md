@@ -2,6 +2,7 @@
 title: "How are pain and suffering damages calculated?"
 slug: "how-pain-and-suffering-calculated"
 topic: "personal-injury"
+clusters: ["car-accidents", "slip-and-fall", "dog-bites"]
 short_answer: "There is no fixed formula for pain and suffering damages. Because these losses are intangible, they are generally assessed by a jury or negotiated between the parties based on the evidence, and estimates vary widely. Informal methods that some parties reference are not legal rules, and several states also limit non-economic damages."
 excerpt: "Why pain and suffering has no set formula and how these intangible damages are approached."
 related:

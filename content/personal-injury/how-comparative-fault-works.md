@@ -2,6 +2,7 @@
 title: "How does comparative fault work?"
 slug: "how-comparative-fault-works"
 topic: "personal-injury"
+clusters: ["car-accidents", "truck-accidents", "slip-and-fall"]
 short_answer: "Comparative fault is a rule that reduces an injured person's compensation by their own share of responsibility for an accident. If a plaintiff is found 20 percent at fault, their award is generally reduced by 20 percent. States apply one of three systems — pure comparative fault, modified comparative fault, or contributory negligence — and the system determines whether a partially-at-fault person can recover anything at all."
 excerpt: "How comparative fault reduces injury compensation, the three systems states use, and why the same accident can produce different outcomes by state."
 related:

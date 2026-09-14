@@ -2,6 +2,7 @@
 title: "What is a demand letter?"
 slug: "what-is-a-demand-letter"
 topic: "personal-injury"
+clusters: ["car-accidents"]
 short_answer: "A demand letter is a written communication that describes a claim, explains why another party is considered responsible, and requests a specific remedy — often payment — by a stated deadline. In personal injury matters it frequently opens settlement negotiations with an insurer or defendant. Its form and legal effect vary by jurisdiction."
 excerpt: "What a demand letter contains and the role it plays in resolving an injury claim before or during a lawsuit."
 related:

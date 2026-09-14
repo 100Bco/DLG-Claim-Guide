@@ -2,8 +2,8 @@ export interface ArticleFrontmatter {
   title: string;
   slug: string;
   topic: string;
-  /** Optional accident-type / sub-topic cluster within the parent topic. */
-  cluster?: string;
+  /** Optional accident-type / sub-topic clusters this article surfaces in. */
+  clusters?: string[];
   short_answer: string;
   excerpt: string;
   related?: string[];

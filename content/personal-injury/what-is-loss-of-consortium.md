@@ -2,6 +2,7 @@
 title: "What is loss of consortium?"
 slug: "what-is-loss-of-consortium"
 topic: "personal-injury"
+clusters: ["wrongful-death", "truck-accidents"]
 short_answer: "Loss of consortium is a claim for the harm an injury to one person causes to their close family relationship — most often a spouse's loss of the injured person's companionship, affection, support, and intimacy. It is a separate but derivative claim, meaning it depends on the injured person's underlying injury claim. Who may bring it, what it covers, and whether it is capped all vary by state."
 excerpt: "How loss of consortium compensates a family member for the relational harm caused by another's injury, and how the rules differ by state."
 related:

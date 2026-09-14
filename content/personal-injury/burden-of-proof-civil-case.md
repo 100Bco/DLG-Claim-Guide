@@ -2,6 +2,7 @@
 title: "What does burden of proof mean in a civil case?"
 slug: "burden-of-proof-civil-case"
 topic: "personal-injury"
+clusters: ["slip-and-fall"]
 short_answer: "The burden of proof is the obligation to prove a disputed claim. In most civil cases, the plaintiff must prove their case by a preponderance of the evidence — meaning it is more likely true than not — which is a lower standard than the 'beyond a reasonable doubt' standard used in criminal cases. Some civil issues use a higher intermediate standard."
 excerpt: "What the burden of proof requires in civil litigation and how it differs from the criminal standard."
 related:

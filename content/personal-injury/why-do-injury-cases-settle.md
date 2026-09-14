@@ -2,6 +2,7 @@
 title: "Why do most personal injury cases settle instead of going to trial?"
 slug: "why-do-injury-cases-settle"
 topic: "personal-injury"
+clusters: ["car-accidents", "truck-accidents"]
 short_answer: "Most personal injury cases settle because trials are expensive, slow, and uncertain for both sides. A settlement gives the plaintiff a defined, agreed payment and the defendant a capped, private cost, while a trial risks a worse outcome for either party. Government data shows only a small share of tort cases — often cited around 3 to 4 percent — reach a trial verdict."
 excerpt: "Why most injury cases settle before trial — the role of cost, risk, and time — and what government data actually shows about trial rates."
 related:

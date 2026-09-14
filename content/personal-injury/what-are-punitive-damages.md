@@ -2,6 +2,7 @@
 title: "What are punitive damages?"
 slug: "what-are-punitive-damages"
 topic: "personal-injury"
+clusters: ["car-accidents", "truck-accidents", "wrongful-death"]
 short_answer: "Punitive damages are money a court may order a defendant to pay beyond the plaintiff's actual losses, meant to punish especially serious misconduct and deter it in the future rather than to compensate the injured person. They are awarded only in a minority of cases and generally require proof of conduct worse than ordinary negligence, such as malice, fraud, or reckless disregard for others' safety. Whether they are available, how they must be proven, and any dollar limits all vary by state."
 excerpt: "How punitive damages punish serious misconduct rather than compensate loss, and how state law limits when they apply."
 related:

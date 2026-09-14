@@ -181,7 +181,8 @@ export function getSeoForPath(pathname: string, baseUrl: string = SITE.url): Seo
       const description = clamp(data.short_answer || data.excerpt || markdownToPlainText(content));
       const crumbs = [{ name: "Home", path: "/" }];
       if (topic) crumbs.push({ name: topic.title, path: `/topic/${topic.id}` });
-      const cluster = data.cluster ? CLUSTERS.find((c) => c.id === data.cluster && c.topic === data.topic) : undefined;
+      const clusterId = data.clusters && data.clusters[0];
+      const cluster = clusterId ? CLUSTERS.find((c) => c.id === clusterId && c.topic === data.topic) : undefined;
       if (topic && cluster) crumbs.push({ name: cluster.title, path: `/topic/${topic.id}/${cluster.id}` });
       crumbs.push({ name: data.title, path: `/${data.slug}` });
 

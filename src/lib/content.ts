@@ -47,24 +47,26 @@ export function getClustersForTopic(topicId: string) {
   return CLUSTERS.filter((c) => c.topic === topicId);
 }
 
-/** Articles assigned to a given cluster. */
+/** Articles that surface in a given cluster (an article may be in several). */
 export function getArticlesByCluster(clusterId: string): Article[] {
-  return ALL_ARTICLES.filter((article) => article.data.cluster === clusterId);
+  return ALL_ARTICLES.filter((article) => article.data.clusters?.includes(clusterId));
 }
 
 /**
- * Group a topic's articles by cluster. Returns the ordered clusters that have
- * at least one article, plus any remaining articles that belong to no cluster
- * (the topic's general/basics section).
+ * Group a topic's articles for its topic page. `groups` are the ordered
+ * clusters that have at least one article (used for the "browse by area" grid
+ * and its counts). `ungrouped` is the topic's process/basics list: every
+ * article that is not a cluster pillar, so foundational concept articles stay
+ * visible on the topic page even when they are also cross-tagged into clusters.
  */
 export function getTopicGroups(topicId: string) {
   const articles = getArticlesByTopic(topicId);
   const clusters = getClustersForTopic(topicId);
-  const clusterIds = new Set(clusters.map((c) => c.id));
   const groups = clusters
-    .map((cluster) => ({ cluster, articles: articles.filter((a) => a.data.cluster === cluster.id) }))
+    .map((cluster) => ({ cluster, articles: getArticlesByCluster(cluster.id) }))
     .filter((g) => g.articles.length > 0);
-  const ungrouped = articles.filter((a) => !a.data.cluster || !clusterIds.has(a.data.cluster));
+  const pillarSlugs = new Set(clusters.map((c) => c.pillar).filter(Boolean));
+  const ungrouped = articles.filter((a) => !pillarSlugs.has(a.data.slug));
   return { groups, ungrouped };
 }
 

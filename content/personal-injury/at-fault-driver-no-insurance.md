@@ -2,6 +2,7 @@
 title: "What happens if the person at fault has no insurance?"
 slug: "at-fault-driver-no-insurance"
 topic: "personal-injury"
+clusters: ["car-accidents"]
 short_answer: "When an at-fault party has no liability insurance, an injured person may still have options, including a claim under their own uninsured or underinsured motorist coverage where it applies, or a direct claim against the responsible party. Collecting from an individual without insurance can be difficult, and the available coverage and remedies vary by state."
 excerpt: "The options and limits when a responsible party has no insurance to cover a claim."
 related:

@@ -2,6 +2,7 @@
 title: "What are economic and non-economic damages?"
 slug: "economic-vs-non-economic-damages"
 topic: "personal-injury"
+clusters: ["car-accidents", "truck-accidents", "slip-and-fall", "dog-bites", "wrongful-death"]
 short_answer: "Economic damages are measurable financial losses, such as medical bills and lost wages, while non-economic damages compensate for intangible harms like pain, suffering, and loss of enjoyment of life. Both are forms of compensatory damages in a personal injury case. How they are defined, proven, and limited varies by state."
 excerpt: "The difference between measurable financial losses and intangible harms in a personal injury claim."
 related:

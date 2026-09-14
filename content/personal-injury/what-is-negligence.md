@@ -2,6 +2,7 @@
 title: "What is negligence?"
 slug: "what-is-negligence"
 topic: "personal-injury"
+clusters: ["car-accidents", "truck-accidents", "slip-and-fall", "dog-bites", "wrongful-death"]
 short_answer: "Negligence is a failure to use the level of care that a reasonably careful person would use in the same situation, resulting in harm to another. To establish it, a plaintiff generally must show duty, breach, causation, and damages. How each element is defined and applied can vary by jurisdiction."
 excerpt: "The core legal concept behind most personal injury claims and the elements used to establish it."
 related:

@@ -2,6 +2,7 @@
 title: "What happens during a personal injury lawsuit?"
 slug: "what-happens-during-personal-injury-lawsuit"
 topic: "personal-injury"
+clusters: ["car-accidents", "truck-accidents", "slip-and-fall", "dog-bites", "wrongful-death"]
 short_answer: "A personal injury lawsuit generally moves through pleadings, discovery, negotiation, and, in a minority of cases, trial. Most claims resolve by settlement before a courtroom verdict is ever reached. The exact steps and deadlines vary by jurisdiction."
 excerpt: "An overview of the standard phases of a civil personal injury lawsuit, from filing through resolution."
 related:

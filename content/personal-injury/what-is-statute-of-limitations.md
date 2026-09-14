@@ -2,6 +2,7 @@
 title: "What is a statute of limitations?"
 slug: "what-is-statute-of-limitations"
 topic: "personal-injury"
+clusters: ["car-accidents", "truck-accidents", "slip-and-fall", "dog-bites", "wrongful-death"]
 short_answer: "A statute of limitations is a law that sets the maximum time after an event within which a lawsuit may be filed. If a claim is not brought before the deadline expires, a court will usually dismiss it as time-barred. The length of the deadline depends on the type of claim and varies by state."
 excerpt: "How filing deadlines for legal claims work, why they exist, and how they differ across states."
 related:
