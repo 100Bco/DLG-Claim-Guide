@@ -2,6 +2,7 @@
 title: "What is a medical lien?"
 slug: "what-is-a-medical-lien"
 topic: "personal-injury"
+clusters: ["car-accidents", "truck-accidents"]
 short_answer: "A medical lien is a legal claim that lets a healthcare provider or insurer be repaid for treatment costs out of a person's injury settlement or judgment. It gives the lienholder a right to a portion of the recovery before the injured person receives the remainder. The types of liens and the rules governing them vary by state."
 excerpt: "How medical liens let providers or insurers recover treatment costs from an injury settlement."
 related:

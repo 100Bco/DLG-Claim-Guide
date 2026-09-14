@@ -2,7 +2,7 @@
 title: "How do dog bite injury claims work?"
 slug: "dog-bite-claims"
 topic: "personal-injury"
-cluster: "dog-bites"
+clusters: ["dog-bites"]
 short_answer: "A dog bite injury claim seeks compensation from a dog owner (or another responsible party) when a dog causes injury. How an owner is held responsible depends heavily on the state: many states impose strict liability by statute, meaning the owner can be liable even without prior knowledge that the dog was dangerous, while others follow the traditional 'one-bite' rule that turns on the owner's knowledge. Coverage often comes from homeowners or renters insurance."
 excerpt: "How dog bite and animal attack injury claims work, the difference between strict liability and the one-bite rule, and how liability varies by state."
 related:

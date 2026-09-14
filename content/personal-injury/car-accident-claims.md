@@ -2,7 +2,7 @@
 title: "How do car accident injury claims work?"
 slug: "car-accident-claims"
 topic: "personal-injury"
-cluster: "car-accidents"
+clusters: ["car-accidents"]
 short_answer: "A car accident injury claim seeks compensation for injuries and losses caused by a crash, usually through insurance and, if needed, a lawsuit. In most states, the claim is fault-based: the injured person must show another driver was negligent. A minority of states use a no-fault system, where an injured person first turns to their own coverage. Insurance requirements, deadlines, and how fault affects recovery all vary by state."
 excerpt: "An overview of how car accident injury claims work — fault, insurance, damages, and how the rules differ from state to state."
 related:
